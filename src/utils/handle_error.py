@@ -2,9 +2,9 @@ from utils.json_response import json_response
 
 
 def handle_error(fn):
-    def wrapper():
+    def wrapper(*args,**kwargs):
         try:
-            return fn()
+            return fn(*args,**kwargs)
         except Exception as e:
             print("Se ha producido un error:")
             print(e)

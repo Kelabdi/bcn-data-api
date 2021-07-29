@@ -17,14 +17,9 @@ def ejemplo():
     }
 
 
-@app.route("/read")
+@app.route("/read/<nombre>")
 @handle_error
-def ejemplo2():
-    print("terminal")
-    print(request.args)
-    name = request.args.get("name","")
-    surname = request.args.get("surname")
+def ejemplo2(nombre):
     return {
-        "name":name,
-        "surname": surname
+        "name":nombre
     }
