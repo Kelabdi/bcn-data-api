@@ -102,12 +102,6 @@ if chosen:
         st.plotly_chart(fig)
 
 
-        # for i in info_s:
-        #     res = requests.get(api_url+f"{info[i]}{year}").json()
-        # # data_year = list(db.json()({"Year":f"{year}"}))
-        # # data_y = [e[] for e in db.json()]
-        #     st.json(res)
-
 
 # st.text(value)
 

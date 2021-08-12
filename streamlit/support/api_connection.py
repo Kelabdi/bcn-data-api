@@ -1,2 +1,7 @@
+import os
+import dotenv
 
-api_url = "http://0.0.0.0:3000"
+dotenv.load_dotenv()
+
+api_url = os.getenv("api_url")
+
