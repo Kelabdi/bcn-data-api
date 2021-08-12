@@ -4439,6 +4439,1782 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2019,December,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,708
 2019,December,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,800
 2019,December,99,No consta,99,No consta,Female,Registered unemployed,14
+2018,January,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2026
+2018,January,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,493
+2018,January,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,547
+2018,January,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Male,Registered unemployed,751
+2018,January,2,Eixample,5,el Fort Pienc,Male,Registered unemployed,584
+2018,January,2,Eixample,6,la Sagrada Família,Male,Registered unemployed,926
+2018,January,2,Eixample,7,la Dreta de l'Eixample,Male,Registered unemployed,602
+2018,January,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Male,Registered unemployed,719
+2018,January,2,Eixample,9,la Nova Esquerra de l'Eixample,Male,Registered unemployed,1048
+2018,January,2,Eixample,10,Sant Antoni,Male,Registered unemployed,800
+2018,January,3,Sants-Montjuïc,11,el Poble Sec,Male,Registered unemployed,1193
+2018,January,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Male,Registered unemployed,67
+2018,January,3,Sants-Montjuïc,13,la Marina de Port,Male,Registered unemployed,776
+2018,January,3,Sants-Montjuïc,14,la Font de la Guatlla,Male,Registered unemployed,298
+2018,January,3,Sants-Montjuïc,15,Hostafrancs,Male,Registered unemployed,324
+2018,January,3,Sants-Montjuïc,16,la Bordeta,Male,Registered unemployed,381
+2018,January,3,Sants-Montjuïc,17,Sants - Badal,Male,Registered unemployed,397
+2018,January,3,Sants-Montjuïc,18,Sants,Male,Registered unemployed,769
+2018,January,4,Les Corts,19,les Corts,Male,Registered unemployed,784
+2018,January,4,Les Corts,20,la Maternitat i Sant Ramon,Male,Registered unemployed,393
+2018,January,4,Les Corts,21,Pedralbes,Male,Registered unemployed,96
+2018,January,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Male,Registered unemployed,45
+2018,January,5,Sarrià-Sant Gervasi,23,Sarrià,Male,Registered unemployed,216
+2018,January,5,Sarrià-Sant Gervasi,24,les Tres Torres,Male,Registered unemployed,172
+2018,January,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Male,Registered unemployed,251
+2018,January,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Male,Registered unemployed,474
+2018,January,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Male,Registered unemployed,432
+2018,January,6,Gràcia,28,Vallcarca i els Penitents,Male,Registered unemployed,278
+2018,January,6,Gràcia,29,el Coll,Male,Registered unemployed,115
+2018,January,6,Gràcia,30,la Salut,Male,Registered unemployed,236
+2018,January,6,Gràcia,31,la Vila de Gràcia,Male,Registered unemployed,933
+2018,January,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Male,Registered unemployed,589
+2018,January,7,Horta-Guinardó,33,el Baix Guinardó,Male,Registered unemployed,455
+2018,January,7,Horta-Guinardó,34,Can Baró,Male,Registered unemployed,169
+2018,January,7,Horta-Guinardó,35,el Guinardó,Male,Registered unemployed,733
+2018,January,7,Horta-Guinardó,36,la Font d'en Fargues,Male,Registered unemployed,228
+2018,January,7,Horta-Guinardó,37,el Carmel,Male,Registered unemployed,777
+2018,January,7,Horta-Guinardó,38,la Teixonera,Male,Registered unemployed,243
+2018,January,7,Horta-Guinardó,39,Sant Genís dels Agudells,Male,Registered unemployed,148
+2018,January,7,Horta-Guinardó,40,Montbau,Male,Registered unemployed,107
+2018,January,7,Horta-Guinardó,41,la Vall d'Hebron,Male,Registered unemployed,114
+2018,January,7,Horta-Guinardó,42,la Clota,Male,Registered unemployed,8
+2018,January,7,Horta-Guinardó,43,Horta,Male,Registered unemployed,668
+2018,January,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Male,Registered unemployed,620
+2018,January,8,Nou Barris,45,Porta,Male,Registered unemployed,589
+2018,January,8,Nou Barris,46,el Turó de la Peira,Male,Registered unemployed,393
+2018,January,8,Nou Barris,47,Can Peguera,Male,Registered unemployed,54
+2018,January,8,Nou Barris,48,la Guineueta,Male,Registered unemployed,437
+2018,January,8,Nou Barris,49,Canyelles,Male,Registered unemployed,213
+2018,January,8,Nou Barris,50,les Roquetes,Male,Registered unemployed,462
+2018,January,8,Nou Barris,51,Verdun,Male,Registered unemployed,354
+2018,January,8,Nou Barris,52,la Prosperitat,Male,Registered unemployed,662
+2018,January,8,Nou Barris,53,la Trinitat Nova,Male,Registered unemployed,324
+2018,January,8,Nou Barris,54,Torre Baró,Male,Registered unemployed,90
+2018,January,8,Nou Barris,55,Ciutat Meridiana,Male,Registered unemployed,469
+2018,January,8,Nou Barris,56,Vallbona,Male,Registered unemployed,54
+2018,January,9,Sant Andreu,57,la Trinitat Vella,Male,Registered unemployed,435
+2018,January,9,Sant Andreu,58,Baró de Viver,Male,Registered unemployed,52
+2018,January,9,Sant Andreu,59,el Bon Pastor,Male,Registered unemployed,297
+2018,January,9,Sant Andreu,60,Sant Andreu,Male,Registered unemployed,1201
+2018,January,9,Sant Andreu,61,la Sagrera,Male,Registered unemployed,578
+2018,January,9,Sant Andreu,62,el Congrés i els Indians,Male,Registered unemployed,281
+2018,January,9,Sant Andreu,63,Navas,Male,Registered unemployed,433
+2018,January,10,Sant Martí,64,el Camp de l'Arpa del Clot,Male,Registered unemployed,910
+2018,January,10,Sant Martí,65,el Clot,Male,Registered unemployed,599
+2018,January,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Male,Registered unemployed,283
+2018,January,10,Sant Martí,67,la Vila Olímpica del Poblenou,Male,Registered unemployed,187
+2018,January,10,Sant Martí,68,el Poblenou,Male,Registered unemployed,643
+2018,January,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Male,Registered unemployed,313
+2018,January,10,Sant Martí,70,el Besòs i el Maresme,Male,Registered unemployed,717
+2018,January,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,461
+2018,January,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,632
+2018,January,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,715
+2018,January,99,No consta,99,No consta,Male,Registered unemployed,4
+2018,January,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1457
+2018,January,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,430
+2018,January,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,503
+2018,January,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Female,Registered unemployed,695
+2018,January,2,Eixample,5,el Fort Pienc,Female,Registered unemployed,692
+2018,January,2,Eixample,6,la Sagrada Família,Female,Registered unemployed,1152
+2018,January,2,Eixample,7,la Dreta de l'Eixample,Female,Registered unemployed,738
+2018,January,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Female,Registered unemployed,785
+2018,January,2,Eixample,9,la Nova Esquerra de l'Eixample,Female,Registered unemployed,1177
+2018,January,2,Eixample,10,Sant Antoni,Female,Registered unemployed,836
+2018,January,3,Sants-Montjuïc,11,el Poble Sec,Female,Registered unemployed,1157
+2018,January,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Female,Registered unemployed,46
+2018,January,3,Sants-Montjuïc,13,la Marina de Port,Female,Registered unemployed,978
+2018,January,3,Sants-Montjuïc,14,la Font de la Guatlla,Female,Registered unemployed,294
+2018,January,3,Sants-Montjuïc,15,Hostafrancs,Female,Registered unemployed,410
+2018,January,3,Sants-Montjuïc,16,la Bordeta,Female,Registered unemployed,482
+2018,January,3,Sants-Montjuïc,17,Sants - Badal,Female,Registered unemployed,493
+2018,January,3,Sants-Montjuïc,18,Sants,Female,Registered unemployed,964
+2018,January,4,Les Corts,19,les Corts,Female,Registered unemployed,970
+2018,January,4,Les Corts,20,la Maternitat i Sant Ramon,Female,Registered unemployed,487
+2018,January,4,Les Corts,21,Pedralbes,Female,Registered unemployed,134
+2018,January,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Female,Registered unemployed,48
+2018,January,5,Sarrià-Sant Gervasi,23,Sarrià,Female,Registered unemployed,276
+2018,January,5,Sarrià-Sant Gervasi,24,les Tres Torres,Female,Registered unemployed,187
+2018,January,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Female,Registered unemployed,345
+2018,January,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Female,Registered unemployed,597
+2018,January,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Female,Registered unemployed,528
+2018,January,6,Gràcia,28,Vallcarca i els Penitents,Female,Registered unemployed,341
+2018,January,6,Gràcia,29,el Coll,Female,Registered unemployed,143
+2018,January,6,Gràcia,30,la Salut,Female,Registered unemployed,298
+2018,January,6,Gràcia,31,la Vila de Gràcia,Female,Registered unemployed,1168
+2018,January,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Female,Registered unemployed,749
+2018,January,7,Horta-Guinardó,33,el Baix Guinardó,Female,Registered unemployed,585
+2018,January,7,Horta-Guinardó,34,Can Baró,Female,Registered unemployed,214
+2018,January,7,Horta-Guinardó,35,el Guinardó,Female,Registered unemployed,921
+2018,January,7,Horta-Guinardó,36,la Font d'en Fargues,Female,Registered unemployed,279
+2018,January,7,Horta-Guinardó,37,el Carmel,Female,Registered unemployed,951
+2018,January,7,Horta-Guinardó,38,la Teixonera,Female,Registered unemployed,281
+2018,January,7,Horta-Guinardó,39,Sant Genís dels Agudells,Female,Registered unemployed,169
+2018,January,7,Horta-Guinardó,40,Montbau,Female,Registered unemployed,122
+2018,January,7,Horta-Guinardó,41,la Vall d'Hebron,Female,Registered unemployed,130
+2018,January,7,Horta-Guinardó,42,la Clota,Female,Registered unemployed,9
+2018,January,7,Horta-Guinardó,43,Horta,Female,Registered unemployed,785
+2018,January,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Female,Registered unemployed,733
+2018,January,8,Nou Barris,45,Porta,Female,Registered unemployed,732
+2018,January,8,Nou Barris,46,el Turó de la Peira,Female,Registered unemployed,450
+2018,January,8,Nou Barris,47,Can Peguera,Female,Registered unemployed,64
+2018,January,8,Nou Barris,48,la Guineueta,Female,Registered unemployed,536
+2018,January,8,Nou Barris,49,Canyelles,Female,Registered unemployed,262
+2018,January,8,Nou Barris,50,les Roquetes,Female,Registered unemployed,567
+2018,January,8,Nou Barris,51,Verdun,Female,Registered unemployed,435
+2018,January,8,Nou Barris,52,la Prosperitat,Female,Registered unemployed,822
+2018,January,8,Nou Barris,53,la Trinitat Nova,Female,Registered unemployed,354
+2018,January,8,Nou Barris,54,Torre Baró,Female,Registered unemployed,97
+2018,January,8,Nou Barris,55,Ciutat Meridiana,Female,Registered unemployed,508
+2018,January,8,Nou Barris,56,Vallbona,Female,Registered unemployed,59
+2018,January,9,Sant Andreu,57,la Trinitat Vella,Female,Registered unemployed,470
+2018,January,9,Sant Andreu,58,Baró de Viver,Female,Registered unemployed,69
+2018,January,9,Sant Andreu,59,el Bon Pastor,Female,Registered unemployed,395
+2018,January,9,Sant Andreu,60,Sant Andreu,Female,Registered unemployed,1597
+2018,January,9,Sant Andreu,61,la Sagrera,Female,Registered unemployed,732
+2018,January,9,Sant Andreu,62,el Congrés i els Indians,Female,Registered unemployed,356
+2018,January,9,Sant Andreu,63,Navas,Female,Registered unemployed,549
+2018,January,10,Sant Martí,64,el Camp de l'Arpa del Clot,Female,Registered unemployed,978
+2018,January,10,Sant Martí,65,el Clot,Female,Registered unemployed,688
+2018,January,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Female,Registered unemployed,340
+2018,January,10,Sant Martí,67,la Vila Olímpica del Poblenou,Female,Registered unemployed,222
+2018,January,10,Sant Martí,68,el Poblenou,Female,Registered unemployed,765
+2018,January,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Female,Registered unemployed,354
+2018,January,10,Sant Martí,70,el Besòs i el Maresme,Female,Registered unemployed,814
+2018,January,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,567
+2018,January,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,811
+2018,January,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,921
+2018,January,99,No consta,99,No consta,Female,Registered unemployed,3
+2018,February,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1959
+2018,February,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,483
+2018,February,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,524
+2018,February,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Male,Registered unemployed,719
+2018,February,2,Eixample,5,el Fort Pienc,Male,Registered unemployed,576
+2018,February,2,Eixample,6,la Sagrada Família,Male,Registered unemployed,907
+2018,February,2,Eixample,7,la Dreta de l'Eixample,Male,Registered unemployed,596
+2018,February,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Male,Registered unemployed,685
+2018,February,2,Eixample,9,la Nova Esquerra de l'Eixample,Male,Registered unemployed,1013
+2018,February,2,Eixample,10,Sant Antoni,Male,Registered unemployed,778
+2018,February,3,Sants-Montjuïc,11,el Poble Sec,Male,Registered unemployed,1174
+2018,February,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Male,Registered unemployed,66
+2018,February,3,Sants-Montjuïc,13,la Marina de Port,Male,Registered unemployed,731
+2018,February,3,Sants-Montjuïc,14,la Font de la Guatlla,Male,Registered unemployed,292
+2018,February,3,Sants-Montjuïc,15,Hostafrancs,Male,Registered unemployed,329
+2018,February,3,Sants-Montjuïc,16,la Bordeta,Male,Registered unemployed,386
+2018,February,3,Sants-Montjuïc,17,Sants - Badal,Male,Registered unemployed,398
+2018,February,3,Sants-Montjuïc,18,Sants,Male,Registered unemployed,772
+2018,February,4,Les Corts,19,les Corts,Male,Registered unemployed,771
+2018,February,4,Les Corts,20,la Maternitat i Sant Ramon,Male,Registered unemployed,393
+2018,February,4,Les Corts,21,Pedralbes,Male,Registered unemployed,97
+2018,February,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Male,Registered unemployed,45
+2018,February,5,Sarrià-Sant Gervasi,23,Sarrià,Male,Registered unemployed,220
+2018,February,5,Sarrià-Sant Gervasi,24,les Tres Torres,Male,Registered unemployed,175
+2018,February,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Male,Registered unemployed,249
+2018,February,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Male,Registered unemployed,461
+2018,February,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Male,Registered unemployed,425
+2018,February,6,Gràcia,28,Vallcarca i els Penitents,Male,Registered unemployed,274
+2018,February,6,Gràcia,29,el Coll,Male,Registered unemployed,114
+2018,February,6,Gràcia,30,la Salut,Male,Registered unemployed,231
+2018,February,6,Gràcia,31,la Vila de Gràcia,Male,Registered unemployed,917
+2018,February,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Male,Registered unemployed,576
+2018,February,7,Horta-Guinardó,33,el Baix Guinardó,Male,Registered unemployed,444
+2018,February,7,Horta-Guinardó,34,Can Baró,Male,Registered unemployed,166
+2018,February,7,Horta-Guinardó,35,el Guinardó,Male,Registered unemployed,728
+2018,February,7,Horta-Guinardó,36,la Font d'en Fargues,Male,Registered unemployed,228
+2018,February,7,Horta-Guinardó,37,el Carmel,Male,Registered unemployed,777
+2018,February,7,Horta-Guinardó,38,la Teixonera,Male,Registered unemployed,236
+2018,February,7,Horta-Guinardó,39,Sant Genís dels Agudells,Male,Registered unemployed,143
+2018,February,7,Horta-Guinardó,40,Montbau,Male,Registered unemployed,103
+2018,February,7,Horta-Guinardó,41,la Vall d'Hebron,Male,Registered unemployed,110
+2018,February,7,Horta-Guinardó,42,la Clota,Male,Registered unemployed,8
+2018,February,7,Horta-Guinardó,43,Horta,Male,Registered unemployed,660
+2018,February,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Male,Registered unemployed,609
+2018,February,8,Nou Barris,45,Porta,Male,Registered unemployed,581
+2018,February,8,Nou Barris,46,el Turó de la Peira,Male,Registered unemployed,385
+2018,February,8,Nou Barris,47,Can Peguera,Male,Registered unemployed,54
+2018,February,8,Nou Barris,48,la Guineueta,Male,Registered unemployed,433
+2018,February,8,Nou Barris,49,Canyelles,Male,Registered unemployed,211
+2018,February,8,Nou Barris,50,les Roquetes,Male,Registered unemployed,458
+2018,February,8,Nou Barris,51,Verdun,Male,Registered unemployed,351
+2018,February,8,Nou Barris,52,la Prosperitat,Male,Registered unemployed,653
+2018,February,8,Nou Barris,53,la Trinitat Nova,Male,Registered unemployed,311
+2018,February,8,Nou Barris,54,Torre Baró,Male,Registered unemployed,86
+2018,February,8,Nou Barris,55,Ciutat Meridiana,Male,Registered unemployed,449
+2018,February,8,Nou Barris,56,Vallbona,Male,Registered unemployed,52
+2018,February,9,Sant Andreu,57,la Trinitat Vella,Male,Registered unemployed,416
+2018,February,9,Sant Andreu,58,Baró de Viver,Male,Registered unemployed,50
+2018,February,9,Sant Andreu,59,el Bon Pastor,Male,Registered unemployed,287
+2018,February,9,Sant Andreu,60,Sant Andreu,Male,Registered unemployed,1161
+2018,February,9,Sant Andreu,61,la Sagrera,Male,Registered unemployed,579
+2018,February,9,Sant Andreu,62,el Congrés i els Indians,Male,Registered unemployed,282
+2018,February,9,Sant Andreu,63,Navas,Male,Registered unemployed,434
+2018,February,10,Sant Martí,64,el Camp de l'Arpa del Clot,Male,Registered unemployed,912
+2018,February,10,Sant Martí,65,el Clot,Male,Registered unemployed,586
+2018,February,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Male,Registered unemployed,273
+2018,February,10,Sant Martí,67,la Vila Olímpica del Poblenou,Male,Registered unemployed,187
+2018,February,10,Sant Martí,68,el Poblenou,Male,Registered unemployed,639
+2018,February,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Male,Registered unemployed,307
+2018,February,10,Sant Martí,70,el Besòs i el Maresme,Male,Registered unemployed,701
+2018,February,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,452
+2018,February,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,629
+2018,February,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,713
+2018,February,99,No consta,99,No consta,Male,Registered unemployed,4
+2018,February,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1450
+2018,February,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,420
+2018,February,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,495
+2018,February,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Female,Registered unemployed,686
+2018,February,2,Eixample,5,el Fort Pienc,Female,Registered unemployed,681
+2018,February,2,Eixample,6,la Sagrada Família,Female,Registered unemployed,1121
+2018,February,2,Eixample,7,la Dreta de l'Eixample,Female,Registered unemployed,723
+2018,February,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Female,Registered unemployed,788
+2018,February,2,Eixample,9,la Nova Esquerra de l'Eixample,Female,Registered unemployed,1169
+2018,February,2,Eixample,10,Sant Antoni,Female,Registered unemployed,829
+2018,February,3,Sants-Montjuïc,11,el Poble Sec,Female,Registered unemployed,1138
+2018,February,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Female,Registered unemployed,48
+2018,February,3,Sants-Montjuïc,13,la Marina de Port,Female,Registered unemployed,984
+2018,February,3,Sants-Montjuïc,14,la Font de la Guatlla,Female,Registered unemployed,290
+2018,February,3,Sants-Montjuïc,15,Hostafrancs,Female,Registered unemployed,406
+2018,February,3,Sants-Montjuïc,16,la Bordeta,Female,Registered unemployed,476
+2018,February,3,Sants-Montjuïc,17,Sants - Badal,Female,Registered unemployed,491
+2018,February,3,Sants-Montjuïc,18,Sants,Female,Registered unemployed,957
+2018,February,4,Les Corts,19,les Corts,Female,Registered unemployed,967
+2018,February,4,Les Corts,20,la Maternitat i Sant Ramon,Female,Registered unemployed,486
+2018,February,4,Les Corts,21,Pedralbes,Female,Registered unemployed,127
+2018,February,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Female,Registered unemployed,48
+2018,February,5,Sarrià-Sant Gervasi,23,Sarrià,Female,Registered unemployed,266
+2018,February,5,Sarrià-Sant Gervasi,24,les Tres Torres,Female,Registered unemployed,188
+2018,February,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Female,Registered unemployed,332
+2018,February,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Female,Registered unemployed,600
+2018,February,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Female,Registered unemployed,524
+2018,February,6,Gràcia,28,Vallcarca i els Penitents,Female,Registered unemployed,343
+2018,February,6,Gràcia,29,el Coll,Female,Registered unemployed,144
+2018,February,6,Gràcia,30,la Salut,Female,Registered unemployed,296
+2018,February,6,Gràcia,31,la Vila de Gràcia,Female,Registered unemployed,1161
+2018,February,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Female,Registered unemployed,732
+2018,February,7,Horta-Guinardó,33,el Baix Guinardó,Female,Registered unemployed,570
+2018,February,7,Horta-Guinardó,34,Can Baró,Female,Registered unemployed,213
+2018,February,7,Horta-Guinardó,35,el Guinardó,Female,Registered unemployed,919
+2018,February,7,Horta-Guinardó,36,la Font d'en Fargues,Female,Registered unemployed,274
+2018,February,7,Horta-Guinardó,37,el Carmel,Female,Registered unemployed,935
+2018,February,7,Horta-Guinardó,38,la Teixonera,Female,Registered unemployed,279
+2018,February,7,Horta-Guinardó,39,Sant Genís dels Agudells,Female,Registered unemployed,168
+2018,February,7,Horta-Guinardó,40,Montbau,Female,Registered unemployed,121
+2018,February,7,Horta-Guinardó,41,la Vall d'Hebron,Female,Registered unemployed,129
+2018,February,7,Horta-Guinardó,42,la Clota,Female,Registered unemployed,9
+2018,February,7,Horta-Guinardó,43,Horta,Female,Registered unemployed,784
+2018,February,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Female,Registered unemployed,731
+2018,February,8,Nou Barris,45,Porta,Female,Registered unemployed,717
+2018,February,8,Nou Barris,46,el Turó de la Peira,Female,Registered unemployed,453
+2018,February,8,Nou Barris,47,Can Peguera,Female,Registered unemployed,64
+2018,February,8,Nou Barris,48,la Guineueta,Female,Registered unemployed,535
+2018,February,8,Nou Barris,49,Canyelles,Female,Registered unemployed,261
+2018,February,8,Nou Barris,50,les Roquetes,Female,Registered unemployed,566
+2018,February,8,Nou Barris,51,Verdun,Female,Registered unemployed,434
+2018,February,8,Nou Barris,52,la Prosperitat,Female,Registered unemployed,805
+2018,February,8,Nou Barris,53,la Trinitat Nova,Female,Registered unemployed,355
+2018,February,8,Nou Barris,54,Torre Baró,Female,Registered unemployed,97
+2018,February,8,Nou Barris,55,Ciutat Meridiana,Female,Registered unemployed,509
+2018,February,8,Nou Barris,56,Vallbona,Female,Registered unemployed,59
+2018,February,9,Sant Andreu,57,la Trinitat Vella,Female,Registered unemployed,471
+2018,February,9,Sant Andreu,58,Baró de Viver,Female,Registered unemployed,70
+2018,February,9,Sant Andreu,59,el Bon Pastor,Female,Registered unemployed,399
+2018,February,9,Sant Andreu,60,Sant Andreu,Female,Registered unemployed,1616
+2018,February,9,Sant Andreu,61,la Sagrera,Female,Registered unemployed,725
+2018,February,9,Sant Andreu,62,el Congrés i els Indians,Female,Registered unemployed,353
+2018,February,9,Sant Andreu,63,Navas,Female,Registered unemployed,545
+2018,February,10,Sant Martí,64,el Camp de l'Arpa del Clot,Female,Registered unemployed,996
+2018,February,10,Sant Martí,65,el Clot,Female,Registered unemployed,691
+2018,February,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Female,Registered unemployed,338
+2018,February,10,Sant Martí,67,la Vila Olímpica del Poblenou,Female,Registered unemployed,220
+2018,February,10,Sant Martí,68,el Poblenou,Female,Registered unemployed,760
+2018,February,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Female,Registered unemployed,347
+2018,February,10,Sant Martí,70,el Besòs i el Maresme,Female,Registered unemployed,797
+2018,February,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,561
+2018,February,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,805
+2018,February,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,913
+2018,February,99,No consta,99,No consta,Female,Registered unemployed,7
+2018,March,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1962
+2018,March,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,488
+2018,March,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,511
+2018,March,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Male,Registered unemployed,703
+2018,March,2,Eixample,5,el Fort Pienc,Male,Registered unemployed,574
+2018,March,2,Eixample,6,la Sagrada Família,Male,Registered unemployed,909
+2018,March,2,Eixample,7,la Dreta de l'Eixample,Male,Registered unemployed,578
+2018,March,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Male,Registered unemployed,707
+2018,March,2,Eixample,9,la Nova Esquerra de l'Eixample,Male,Registered unemployed,985
+2018,March,2,Eixample,10,Sant Antoni,Male,Registered unemployed,761
+2018,March,3,Sants-Montjuïc,11,el Poble Sec,Male,Registered unemployed,1165
+2018,March,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Male,Registered unemployed,62
+2018,March,3,Sants-Montjuïc,13,la Marina de Port,Male,Registered unemployed,742
+2018,March,3,Sants-Montjuïc,14,la Font de la Guatlla,Male,Registered unemployed,291
+2018,March,3,Sants-Montjuïc,15,Hostafrancs,Male,Registered unemployed,332
+2018,March,3,Sants-Montjuïc,16,la Bordeta,Male,Registered unemployed,390
+2018,March,3,Sants-Montjuïc,17,Sants - Badal,Male,Registered unemployed,400
+2018,March,3,Sants-Montjuïc,18,Sants,Male,Registered unemployed,778
+2018,March,4,Les Corts,19,les Corts,Male,Registered unemployed,767
+2018,March,4,Les Corts,20,la Maternitat i Sant Ramon,Male,Registered unemployed,395
+2018,March,4,Les Corts,21,Pedralbes,Male,Registered unemployed,90
+2018,March,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Male,Registered unemployed,45
+2018,March,5,Sarrià-Sant Gervasi,23,Sarrià,Male,Registered unemployed,207
+2018,March,5,Sarrià-Sant Gervasi,24,les Tres Torres,Male,Registered unemployed,172
+2018,March,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Male,Registered unemployed,248
+2018,March,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Male,Registered unemployed,456
+2018,March,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Male,Registered unemployed,432
+2018,March,6,Gràcia,28,Vallcarca i els Penitents,Male,Registered unemployed,282
+2018,March,6,Gràcia,29,el Coll,Male,Registered unemployed,118
+2018,March,6,Gràcia,30,la Salut,Male,Registered unemployed,237
+2018,March,6,Gràcia,31,la Vila de Gràcia,Male,Registered unemployed,926
+2018,March,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Male,Registered unemployed,582
+2018,March,7,Horta-Guinardó,33,el Baix Guinardó,Male,Registered unemployed,449
+2018,March,7,Horta-Guinardó,34,Can Baró,Male,Registered unemployed,169
+2018,March,7,Horta-Guinardó,35,el Guinardó,Male,Registered unemployed,718
+2018,March,7,Horta-Guinardó,36,la Font d'en Fargues,Male,Registered unemployed,229
+2018,March,7,Horta-Guinardó,37,el Carmel,Male,Registered unemployed,780
+2018,March,7,Horta-Guinardó,38,la Teixonera,Male,Registered unemployed,236
+2018,March,7,Horta-Guinardó,39,Sant Genís dels Agudells,Male,Registered unemployed,142
+2018,March,7,Horta-Guinardó,40,Montbau,Male,Registered unemployed,103
+2018,March,7,Horta-Guinardó,41,la Vall d'Hebron,Male,Registered unemployed,110
+2018,March,7,Horta-Guinardó,42,la Clota,Male,Registered unemployed,8
+2018,March,7,Horta-Guinardó,43,Horta,Male,Registered unemployed,667
+2018,March,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Male,Registered unemployed,615
+2018,March,8,Nou Barris,45,Porta,Male,Registered unemployed,582
+2018,March,8,Nou Barris,46,el Turó de la Peira,Male,Registered unemployed,392
+2018,March,8,Nou Barris,47,Can Peguera,Male,Registered unemployed,54
+2018,March,8,Nou Barris,48,la Guineueta,Male,Registered unemployed,424
+2018,March,8,Nou Barris,49,Canyelles,Male,Registered unemployed,207
+2018,March,8,Nou Barris,50,les Roquetes,Male,Registered unemployed,449
+2018,March,8,Nou Barris,51,Verdun,Male,Registered unemployed,344
+2018,March,8,Nou Barris,52,la Prosperitat,Male,Registered unemployed,653
+2018,March,8,Nou Barris,53,la Trinitat Nova,Male,Registered unemployed,314
+2018,March,8,Nou Barris,54,Torre Baró,Male,Registered unemployed,87
+2018,March,8,Nou Barris,55,Ciutat Meridiana,Male,Registered unemployed,456
+2018,March,8,Nou Barris,56,Vallbona,Male,Registered unemployed,53
+2018,March,9,Sant Andreu,57,la Trinitat Vella,Male,Registered unemployed,422
+2018,March,9,Sant Andreu,58,Baró de Viver,Male,Registered unemployed,51
+2018,March,9,Sant Andreu,59,el Bon Pastor,Male,Registered unemployed,292
+2018,March,9,Sant Andreu,60,Sant Andreu,Male,Registered unemployed,1183
+2018,March,9,Sant Andreu,61,la Sagrera,Male,Registered unemployed,563
+2018,March,9,Sant Andreu,62,el Congrés i els Indians,Male,Registered unemployed,274
+2018,March,9,Sant Andreu,63,Navas,Male,Registered unemployed,422
+2018,March,10,Sant Martí,64,el Camp de l'Arpa del Clot,Male,Registered unemployed,912
+2018,March,10,Sant Martí,65,el Clot,Male,Registered unemployed,582
+2018,March,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Male,Registered unemployed,270
+2018,March,10,Sant Martí,67,la Vila Olímpica del Poblenou,Male,Registered unemployed,186
+2018,March,10,Sant Martí,68,el Poblenou,Male,Registered unemployed,637
+2018,March,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Male,Registered unemployed,309
+2018,March,10,Sant Martí,70,el Besòs i el Maresme,Male,Registered unemployed,706
+2018,March,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,450
+2018,March,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,627
+2018,March,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,712
+2018,March,99,No consta,99,No consta,Male,Registered unemployed,4
+2018,March,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1458
+2018,March,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,436
+2018,March,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,482
+2018,March,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Female,Registered unemployed,669
+2018,March,2,Eixample,5,el Fort Pienc,Female,Registered unemployed,681
+2018,March,2,Eixample,6,la Sagrada Família,Female,Registered unemployed,1116
+2018,March,2,Eixample,7,la Dreta de l'Eixample,Female,Registered unemployed,721
+2018,March,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Female,Registered unemployed,788
+2018,March,2,Eixample,9,la Nova Esquerra de l'Eixample,Female,Registered unemployed,1181
+2018,March,2,Eixample,10,Sant Antoni,Female,Registered unemployed,833
+2018,March,3,Sants-Montjuïc,11,el Poble Sec,Female,Registered unemployed,1154
+2018,March,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Female,Registered unemployed,48
+2018,March,3,Sants-Montjuïc,13,la Marina de Port,Female,Registered unemployed,991
+2018,March,3,Sants-Montjuïc,14,la Font de la Guatlla,Female,Registered unemployed,294
+2018,March,3,Sants-Montjuïc,15,Hostafrancs,Female,Registered unemployed,417
+2018,March,3,Sants-Montjuïc,16,la Bordeta,Female,Registered unemployed,489
+2018,March,3,Sants-Montjuïc,17,Sants - Badal,Female,Registered unemployed,493
+2018,March,3,Sants-Montjuïc,18,Sants,Female,Registered unemployed,974
+2018,March,4,Les Corts,19,les Corts,Female,Registered unemployed,983
+2018,March,4,Les Corts,20,la Maternitat i Sant Ramon,Female,Registered unemployed,488
+2018,March,4,Les Corts,21,Pedralbes,Female,Registered unemployed,132
+2018,March,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Female,Registered unemployed,48
+2018,March,5,Sarrià-Sant Gervasi,23,Sarrià,Female,Registered unemployed,272
+2018,March,5,Sarrià-Sant Gervasi,24,les Tres Torres,Female,Registered unemployed,187
+2018,March,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Female,Registered unemployed,335
+2018,March,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Female,Registered unemployed,618
+2018,March,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Female,Registered unemployed,535
+2018,March,6,Gràcia,28,Vallcarca i els Penitents,Female,Registered unemployed,343
+2018,March,6,Gràcia,29,el Coll,Female,Registered unemployed,144
+2018,March,6,Gràcia,30,la Salut,Female,Registered unemployed,298
+2018,March,6,Gràcia,31,la Vila de Gràcia,Female,Registered unemployed,1151
+2018,March,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Female,Registered unemployed,728
+2018,March,7,Horta-Guinardó,33,el Baix Guinardó,Female,Registered unemployed,567
+2018,March,7,Horta-Guinardó,34,Can Baró,Female,Registered unemployed,214
+2018,March,7,Horta-Guinardó,35,el Guinardó,Female,Registered unemployed,898
+2018,March,7,Horta-Guinardó,36,la Font d'en Fargues,Female,Registered unemployed,278
+2018,March,7,Horta-Guinardó,37,el Carmel,Female,Registered unemployed,947
+2018,March,7,Horta-Guinardó,38,la Teixonera,Female,Registered unemployed,276
+2018,March,7,Horta-Guinardó,39,Sant Genís dels Agudells,Female,Registered unemployed,165
+2018,March,7,Horta-Guinardó,40,Montbau,Female,Registered unemployed,119
+2018,March,7,Horta-Guinardó,41,la Vall d'Hebron,Female,Registered unemployed,127
+2018,March,7,Horta-Guinardó,42,la Clota,Female,Registered unemployed,9
+2018,March,7,Horta-Guinardó,43,Horta,Female,Registered unemployed,795
+2018,March,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Female,Registered unemployed,736
+2018,March,8,Nou Barris,45,Porta,Female,Registered unemployed,712
+2018,March,8,Nou Barris,46,el Turó de la Peira,Female,Registered unemployed,461
+2018,March,8,Nou Barris,47,Can Peguera,Female,Registered unemployed,65
+2018,March,8,Nou Barris,48,la Guineueta,Female,Registered unemployed,538
+2018,March,8,Nou Barris,49,Canyelles,Female,Registered unemployed,262
+2018,March,8,Nou Barris,50,les Roquetes,Female,Registered unemployed,569
+2018,March,8,Nou Barris,51,Verdun,Female,Registered unemployed,436
+2018,March,8,Nou Barris,52,la Prosperitat,Female,Registered unemployed,800
+2018,March,8,Nou Barris,53,la Trinitat Nova,Female,Registered unemployed,359
+2018,March,8,Nou Barris,54,Torre Baró,Female,Registered unemployed,99
+2018,March,8,Nou Barris,55,Ciutat Meridiana,Female,Registered unemployed,515
+2018,March,8,Nou Barris,56,Vallbona,Female,Registered unemployed,60
+2018,March,9,Sant Andreu,57,la Trinitat Vella,Female,Registered unemployed,478
+2018,March,9,Sant Andreu,58,Baró de Viver,Female,Registered unemployed,71
+2018,March,9,Sant Andreu,59,el Bon Pastor,Female,Registered unemployed,404
+2018,March,9,Sant Andreu,60,Sant Andreu,Female,Registered unemployed,1633
+2018,March,9,Sant Andreu,61,la Sagrera,Female,Registered unemployed,726
+2018,March,9,Sant Andreu,62,el Congrés i els Indians,Female,Registered unemployed,354
+2018,March,9,Sant Andreu,63,Navas,Female,Registered unemployed,543
+2018,March,10,Sant Martí,64,el Camp de l'Arpa del Clot,Female,Registered unemployed,981
+2018,March,10,Sant Martí,65,el Clot,Female,Registered unemployed,687
+2018,March,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Female,Registered unemployed,336
+2018,March,10,Sant Martí,67,la Vila Olímpica del Poblenou,Female,Registered unemployed,218
+2018,March,10,Sant Martí,68,el Poblenou,Female,Registered unemployed,754
+2018,March,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Female,Registered unemployed,350
+2018,March,10,Sant Martí,70,el Besòs i el Maresme,Female,Registered unemployed,805
+2018,March,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,559
+2018,March,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,798
+2018,March,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,905
+2018,March,99,No consta,99,No consta,Female,Registered unemployed,5
+2018,April,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1894
+2018,April,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,468
+2018,April,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,501
+2018,April,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Male,Registered unemployed,687
+2018,April,2,Eixample,5,el Fort Pienc,Male,Registered unemployed,562
+2018,April,2,Eixample,6,la Sagrada Família,Male,Registered unemployed,874
+2018,April,2,Eixample,7,la Dreta de l'Eixample,Male,Registered unemployed,565
+2018,April,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Male,Registered unemployed,678
+2018,April,2,Eixample,9,la Nova Esquerra de l'Eixample,Male,Registered unemployed,947
+2018,April,2,Eixample,10,Sant Antoni,Male,Registered unemployed,718
+2018,April,3,Sants-Montjuïc,11,el Poble Sec,Male,Registered unemployed,1097
+2018,April,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Male,Registered unemployed,62
+2018,April,3,Sants-Montjuïc,13,la Marina de Port,Male,Registered unemployed,720
+2018,April,3,Sants-Montjuïc,14,la Font de la Guatlla,Male,Registered unemployed,274
+2018,April,3,Sants-Montjuïc,15,Hostafrancs,Male,Registered unemployed,316
+2018,April,3,Sants-Montjuïc,16,la Bordeta,Male,Registered unemployed,371
+2018,April,3,Sants-Montjuïc,17,Sants - Badal,Male,Registered unemployed,376
+2018,April,3,Sants-Montjuïc,18,Sants,Male,Registered unemployed,739
+2018,April,4,Les Corts,19,les Corts,Male,Registered unemployed,742
+2018,April,4,Les Corts,20,la Maternitat i Sant Ramon,Male,Registered unemployed,372
+2018,April,4,Les Corts,21,Pedralbes,Male,Registered unemployed,86
+2018,April,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Male,Registered unemployed,44
+2018,April,5,Sarrià-Sant Gervasi,23,Sarrià,Male,Registered unemployed,202
+2018,April,5,Sarrià-Sant Gervasi,24,les Tres Torres,Male,Registered unemployed,171
+2018,April,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Male,Registered unemployed,253
+2018,April,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Male,Registered unemployed,433
+2018,April,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Male,Registered unemployed,413
+2018,April,6,Gràcia,28,Vallcarca i els Penitents,Male,Registered unemployed,267
+2018,April,6,Gràcia,29,el Coll,Male,Registered unemployed,111
+2018,April,6,Gràcia,30,la Salut,Male,Registered unemployed,228
+2018,April,6,Gràcia,31,la Vila de Gràcia,Male,Registered unemployed,893
+2018,April,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Male,Registered unemployed,554
+2018,April,7,Horta-Guinardó,33,el Baix Guinardó,Male,Registered unemployed,428
+2018,April,7,Horta-Guinardó,34,Can Baró,Male,Registered unemployed,163
+2018,April,7,Horta-Guinardó,35,el Guinardó,Male,Registered unemployed,707
+2018,April,7,Horta-Guinardó,36,la Font d'en Fargues,Male,Registered unemployed,216
+2018,April,7,Horta-Guinardó,37,el Carmel,Male,Registered unemployed,736
+2018,April,7,Horta-Guinardó,38,la Teixonera,Male,Registered unemployed,229
+2018,April,7,Horta-Guinardó,39,Sant Genís dels Agudells,Male,Registered unemployed,140
+2018,April,7,Horta-Guinardó,40,Montbau,Male,Registered unemployed,101
+2018,April,7,Horta-Guinardó,41,la Vall d'Hebron,Male,Registered unemployed,108
+2018,April,7,Horta-Guinardó,42,la Clota,Male,Registered unemployed,8
+2018,April,7,Horta-Guinardó,43,Horta,Male,Registered unemployed,630
+2018,April,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Male,Registered unemployed,579
+2018,April,8,Nou Barris,45,Porta,Male,Registered unemployed,542
+2018,April,8,Nou Barris,46,el Turó de la Peira,Male,Registered unemployed,370
+2018,April,8,Nou Barris,47,Can Peguera,Male,Registered unemployed,51
+2018,April,8,Nou Barris,48,la Guineueta,Male,Registered unemployed,409
+2018,April,8,Nou Barris,49,Canyelles,Male,Registered unemployed,199
+2018,April,8,Nou Barris,50,les Roquetes,Male,Registered unemployed,432
+2018,April,8,Nou Barris,51,Verdun,Male,Registered unemployed,331
+2018,April,8,Nou Barris,52,la Prosperitat,Male,Registered unemployed,609
+2018,April,8,Nou Barris,53,la Trinitat Nova,Male,Registered unemployed,306
+2018,April,8,Nou Barris,54,Torre Baró,Male,Registered unemployed,85
+2018,April,8,Nou Barris,55,Ciutat Meridiana,Male,Registered unemployed,444
+2018,April,8,Nou Barris,56,Vallbona,Male,Registered unemployed,52
+2018,April,9,Sant Andreu,57,la Trinitat Vella,Male,Registered unemployed,412
+2018,April,9,Sant Andreu,58,Baró de Viver,Male,Registered unemployed,49
+2018,April,9,Sant Andreu,59,el Bon Pastor,Male,Registered unemployed,278
+2018,April,9,Sant Andreu,60,Sant Andreu,Male,Registered unemployed,1127
+2018,April,9,Sant Andreu,61,la Sagrera,Male,Registered unemployed,560
+2018,April,9,Sant Andreu,62,el Congrés i els Indians,Male,Registered unemployed,272
+2018,April,9,Sant Andreu,63,Navas,Male,Registered unemployed,420
+2018,April,10,Sant Martí,64,el Camp de l'Arpa del Clot,Male,Registered unemployed,883
+2018,April,10,Sant Martí,65,el Clot,Male,Registered unemployed,559
+2018,April,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Male,Registered unemployed,257
+2018,April,10,Sant Martí,67,la Vila Olímpica del Poblenou,Male,Registered unemployed,177
+2018,April,10,Sant Martí,68,el Poblenou,Male,Registered unemployed,606
+2018,April,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Male,Registered unemployed,301
+2018,April,10,Sant Martí,70,el Besòs i el Maresme,Male,Registered unemployed,690
+2018,April,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,435
+2018,April,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,608
+2018,April,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,691
+2018,April,99,No consta,99,No consta,Male,Registered unemployed,2
+2018,April,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1400
+2018,April,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,409
+2018,April,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,459
+2018,April,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Female,Registered unemployed,634
+2018,April,2,Eixample,5,el Fort Pienc,Female,Registered unemployed,672
+2018,April,2,Eixample,6,la Sagrada Família,Female,Registered unemployed,1085
+2018,April,2,Eixample,7,la Dreta de l'Eixample,Female,Registered unemployed,694
+2018,April,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Female,Registered unemployed,755
+2018,April,2,Eixample,9,la Nova Esquerra de l'Eixample,Female,Registered unemployed,1138
+2018,April,2,Eixample,10,Sant Antoni,Female,Registered unemployed,810
+2018,April,3,Sants-Montjuïc,11,el Poble Sec,Female,Registered unemployed,1137
+2018,April,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Female,Registered unemployed,47
+2018,April,3,Sants-Montjuïc,13,la Marina de Port,Female,Registered unemployed,958
+2018,April,3,Sants-Montjuïc,14,la Font de la Guatlla,Female,Registered unemployed,289
+2018,April,3,Sants-Montjuïc,15,Hostafrancs,Female,Registered unemployed,406
+2018,April,3,Sants-Montjuïc,16,la Bordeta,Female,Registered unemployed,476
+2018,April,3,Sants-Montjuïc,17,Sants - Badal,Female,Registered unemployed,477
+2018,April,3,Sants-Montjuïc,18,Sants,Female,Registered unemployed,945
+2018,April,4,Les Corts,19,les Corts,Female,Registered unemployed,944
+2018,April,4,Les Corts,20,la Maternitat i Sant Ramon,Female,Registered unemployed,472
+2018,April,4,Les Corts,21,Pedralbes,Female,Registered unemployed,126
+2018,April,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Female,Registered unemployed,47
+2018,April,5,Sarrià-Sant Gervasi,23,Sarrià,Female,Registered unemployed,262
+2018,April,5,Sarrià-Sant Gervasi,24,les Tres Torres,Female,Registered unemployed,181
+2018,April,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Female,Registered unemployed,313
+2018,April,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Female,Registered unemployed,599
+2018,April,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Female,Registered unemployed,509
+2018,April,6,Gràcia,28,Vallcarca i els Penitents,Female,Registered unemployed,326
+2018,April,6,Gràcia,29,el Coll,Female,Registered unemployed,135
+2018,April,6,Gràcia,30,la Salut,Female,Registered unemployed,288
+2018,April,6,Gràcia,31,la Vila de Gràcia,Female,Registered unemployed,1124
+2018,April,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Female,Registered unemployed,699
+2018,April,7,Horta-Guinardó,33,el Baix Guinardó,Female,Registered unemployed,546
+2018,April,7,Horta-Guinardó,34,Can Baró,Female,Registered unemployed,207
+2018,April,7,Horta-Guinardó,35,el Guinardó,Female,Registered unemployed,881
+2018,April,7,Horta-Guinardó,36,la Font d'en Fargues,Female,Registered unemployed,266
+2018,April,7,Horta-Guinardó,37,el Carmel,Female,Registered unemployed,909
+2018,April,7,Horta-Guinardó,38,la Teixonera,Female,Registered unemployed,275
+2018,April,7,Horta-Guinardó,39,Sant Genís dels Agudells,Female,Registered unemployed,166
+2018,April,7,Horta-Guinardó,40,Montbau,Female,Registered unemployed,120
+2018,April,7,Horta-Guinardó,41,la Vall d'Hebron,Female,Registered unemployed,128
+2018,April,7,Horta-Guinardó,42,la Clota,Female,Registered unemployed,9
+2018,April,7,Horta-Guinardó,43,Horta,Female,Registered unemployed,773
+2018,April,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Female,Registered unemployed,723
+2018,April,8,Nou Barris,45,Porta,Female,Registered unemployed,705
+2018,April,8,Nou Barris,46,el Turó de la Peira,Female,Registered unemployed,450
+2018,April,8,Nou Barris,47,Can Peguera,Female,Registered unemployed,64
+2018,April,8,Nou Barris,48,la Guineueta,Female,Registered unemployed,530
+2018,April,8,Nou Barris,49,Canyelles,Female,Registered unemployed,259
+2018,April,8,Nou Barris,50,les Roquetes,Female,Registered unemployed,561
+2018,April,8,Nou Barris,51,Verdun,Female,Registered unemployed,430
+2018,April,8,Nou Barris,52,la Prosperitat,Female,Registered unemployed,792
+2018,April,8,Nou Barris,53,la Trinitat Nova,Female,Registered unemployed,362
+2018,April,8,Nou Barris,54,Torre Baró,Female,Registered unemployed,100
+2018,April,8,Nou Barris,55,Ciutat Meridiana,Female,Registered unemployed,521
+2018,April,8,Nou Barris,56,Vallbona,Female,Registered unemployed,60
+2018,April,9,Sant Andreu,57,la Trinitat Vella,Female,Registered unemployed,483
+2018,April,9,Sant Andreu,58,Baró de Viver,Female,Registered unemployed,69
+2018,April,9,Sant Andreu,59,el Bon Pastor,Female,Registered unemployed,393
+2018,April,9,Sant Andreu,60,Sant Andreu,Female,Registered unemployed,1592
+2018,April,9,Sant Andreu,61,la Sagrera,Female,Registered unemployed,707
+2018,April,9,Sant Andreu,62,el Congrés i els Indians,Female,Registered unemployed,344
+2018,April,9,Sant Andreu,63,Navas,Female,Registered unemployed,530
+2018,April,10,Sant Martí,64,el Camp de l'Arpa del Clot,Female,Registered unemployed,958
+2018,April,10,Sant Martí,65,el Clot,Female,Registered unemployed,666
+2018,April,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Female,Registered unemployed,327
+2018,April,10,Sant Martí,67,la Vila Olímpica del Poblenou,Female,Registered unemployed,217
+2018,April,10,Sant Martí,68,el Poblenou,Female,Registered unemployed,746
+2018,April,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Female,Registered unemployed,349
+2018,April,10,Sant Martí,70,el Besòs i el Maresme,Female,Registered unemployed,801
+2018,April,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,545
+2018,April,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,774
+2018,April,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,878
+2018,April,99,No consta,99,No consta,Female,Registered unemployed,4
+2018,May,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1789
+2018,May,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,469
+2018,May,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,470
+2018,May,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Male,Registered unemployed,651
+2018,May,2,Eixample,5,el Fort Pienc,Male,Registered unemployed,548
+2018,May,2,Eixample,6,la Sagrada Família,Male,Registered unemployed,855
+2018,May,2,Eixample,7,la Dreta de l'Eixample,Male,Registered unemployed,553
+2018,May,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Male,Registered unemployed,631
+2018,May,2,Eixample,9,la Nova Esquerra de l'Eixample,Male,Registered unemployed,918
+2018,May,2,Eixample,10,Sant Antoni,Male,Registered unemployed,689
+2018,May,3,Sants-Montjuïc,11,el Poble Sec,Male,Registered unemployed,1061
+2018,May,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Male,Registered unemployed,61
+2018,May,3,Sants-Montjuïc,13,la Marina de Port,Male,Registered unemployed,716
+2018,May,3,Sants-Montjuïc,14,la Font de la Guatlla,Male,Registered unemployed,265
+2018,May,3,Sants-Montjuïc,15,Hostafrancs,Male,Registered unemployed,303
+2018,May,3,Sants-Montjuïc,16,la Bordeta,Male,Registered unemployed,355
+2018,May,3,Sants-Montjuïc,17,Sants - Badal,Male,Registered unemployed,369
+2018,May,3,Sants-Montjuïc,18,Sants,Male,Registered unemployed,714
+2018,May,4,Les Corts,19,les Corts,Male,Registered unemployed,720
+2018,May,4,Les Corts,20,la Maternitat i Sant Ramon,Male,Registered unemployed,364
+2018,May,4,Les Corts,21,Pedralbes,Male,Registered unemployed,83
+2018,May,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Male,Registered unemployed,44
+2018,May,5,Sarrià-Sant Gervasi,23,Sarrià,Male,Registered unemployed,197
+2018,May,5,Sarrià-Sant Gervasi,24,les Tres Torres,Male,Registered unemployed,170
+2018,May,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Male,Registered unemployed,243
+2018,May,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Male,Registered unemployed,432
+2018,May,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Male,Registered unemployed,395
+2018,May,6,Gràcia,28,Vallcarca i els Penitents,Male,Registered unemployed,253
+2018,May,6,Gràcia,29,el Coll,Male,Registered unemployed,104
+2018,May,6,Gràcia,30,la Salut,Male,Registered unemployed,224
+2018,May,6,Gràcia,31,la Vila de Gràcia,Male,Registered unemployed,871
+2018,May,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Male,Registered unemployed,542
+2018,May,7,Horta-Guinardó,33,el Baix Guinardó,Male,Registered unemployed,421
+2018,May,7,Horta-Guinardó,34,Can Baró,Male,Registered unemployed,161
+2018,May,7,Horta-Guinardó,35,el Guinardó,Male,Registered unemployed,684
+2018,May,7,Horta-Guinardó,36,la Font d'en Fargues,Male,Registered unemployed,212
+2018,May,7,Horta-Guinardó,37,el Carmel,Male,Registered unemployed,722
+2018,May,7,Horta-Guinardó,38,la Teixonera,Male,Registered unemployed,229
+2018,May,7,Horta-Guinardó,39,Sant Genís dels Agudells,Male,Registered unemployed,140
+2018,May,7,Horta-Guinardó,40,Montbau,Male,Registered unemployed,101
+2018,May,7,Horta-Guinardó,41,la Vall d'Hebron,Male,Registered unemployed,108
+2018,May,7,Horta-Guinardó,42,la Clota,Male,Registered unemployed,8
+2018,May,7,Horta-Guinardó,43,Horta,Male,Registered unemployed,609
+2018,May,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Male,Registered unemployed,563
+2018,May,8,Nou Barris,45,Porta,Male,Registered unemployed,542
+2018,May,8,Nou Barris,46,el Turó de la Peira,Male,Registered unemployed,354
+2018,May,8,Nou Barris,47,Can Peguera,Male,Registered unemployed,49
+2018,May,8,Nou Barris,48,la Guineueta,Male,Registered unemployed,399
+2018,May,8,Nou Barris,49,Canyelles,Male,Registered unemployed,195
+2018,May,8,Nou Barris,50,les Roquetes,Male,Registered unemployed,423
+2018,May,8,Nou Barris,51,Verdun,Male,Registered unemployed,324
+2018,May,8,Nou Barris,52,la Prosperitat,Male,Registered unemployed,609
+2018,May,8,Nou Barris,53,la Trinitat Nova,Male,Registered unemployed,298
+2018,May,8,Nou Barris,54,Torre Baró,Male,Registered unemployed,83
+2018,May,8,Nou Barris,55,Ciutat Meridiana,Male,Registered unemployed,432
+2018,May,8,Nou Barris,56,Vallbona,Male,Registered unemployed,50
+2018,May,9,Sant Andreu,57,la Trinitat Vella,Male,Registered unemployed,401
+2018,May,9,Sant Andreu,58,Baró de Viver,Male,Registered unemployed,48
+2018,May,9,Sant Andreu,59,el Bon Pastor,Male,Registered unemployed,270
+2018,May,9,Sant Andreu,60,Sant Andreu,Male,Registered unemployed,1093
+2018,May,9,Sant Andreu,61,la Sagrera,Male,Registered unemployed,534
+2018,May,9,Sant Andreu,62,el Congrés i els Indians,Male,Registered unemployed,260
+2018,May,9,Sant Andreu,63,Navas,Male,Registered unemployed,401
+2018,May,10,Sant Martí,64,el Camp de l'Arpa del Clot,Male,Registered unemployed,829
+2018,May,10,Sant Martí,65,el Clot,Male,Registered unemployed,546
+2018,May,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Male,Registered unemployed,258
+2018,May,10,Sant Martí,67,la Vila Olímpica del Poblenou,Male,Registered unemployed,170
+2018,May,10,Sant Martí,68,el Poblenou,Male,Registered unemployed,585
+2018,May,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Male,Registered unemployed,286
+2018,May,10,Sant Martí,70,el Besòs i el Maresme,Male,Registered unemployed,655
+2018,May,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,426
+2018,May,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,591
+2018,May,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,670
+2018,May,99,No consta,99,No consta,Male,Registered unemployed,4
+2018,May,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1348
+2018,May,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,387
+2018,May,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,454
+2018,May,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Female,Registered unemployed,629
+2018,May,2,Eixample,5,el Fort Pienc,Female,Registered unemployed,654
+2018,May,2,Eixample,6,la Sagrada Família,Female,Registered unemployed,1074
+2018,May,2,Eixample,7,la Dreta de l'Eixample,Female,Registered unemployed,695
+2018,May,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Female,Registered unemployed,749
+2018,May,2,Eixample,9,la Nova Esquerra de l'Eixample,Female,Registered unemployed,1122
+2018,May,2,Eixample,10,Sant Antoni,Female,Registered unemployed,796
+2018,May,3,Sants-Montjuïc,11,el Poble Sec,Female,Registered unemployed,1083
+2018,May,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Female,Registered unemployed,47
+2018,May,3,Sants-Montjuïc,13,la Marina de Port,Female,Registered unemployed,946
+2018,May,3,Sants-Montjuïc,14,la Font de la Guatlla,Female,Registered unemployed,276
+2018,May,3,Sants-Montjuïc,15,Hostafrancs,Female,Registered unemployed,393
+2018,May,3,Sants-Montjuïc,16,la Bordeta,Female,Registered unemployed,461
+2018,May,3,Sants-Montjuïc,17,Sants - Badal,Female,Registered unemployed,483
+2018,May,3,Sants-Montjuïc,18,Sants,Female,Registered unemployed,932
+2018,May,4,Les Corts,19,les Corts,Female,Registered unemployed,937
+2018,May,4,Les Corts,20,la Maternitat i Sant Ramon,Female,Registered unemployed,477
+2018,May,4,Les Corts,21,Pedralbes,Female,Registered unemployed,123
+2018,May,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Female,Registered unemployed,46
+2018,May,5,Sarrià-Sant Gervasi,23,Sarrià,Female,Registered unemployed,256
+2018,May,5,Sarrià-Sant Gervasi,24,les Tres Torres,Female,Registered unemployed,177
+2018,May,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Female,Registered unemployed,306
+2018,May,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Female,Registered unemployed,588
+2018,May,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Female,Registered unemployed,496
+2018,May,6,Gràcia,28,Vallcarca i els Penitents,Female,Registered unemployed,317
+2018,May,6,Gràcia,29,el Coll,Female,Registered unemployed,131
+2018,May,6,Gràcia,30,la Salut,Female,Registered unemployed,282
+2018,May,6,Gràcia,31,la Vila de Gràcia,Female,Registered unemployed,1094
+2018,May,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Female,Registered unemployed,697
+2018,May,7,Horta-Guinardó,33,el Baix Guinardó,Female,Registered unemployed,545
+2018,May,7,Horta-Guinardó,34,Can Baró,Female,Registered unemployed,203
+2018,May,7,Horta-Guinardó,35,el Guinardó,Female,Registered unemployed,852
+2018,May,7,Horta-Guinardó,36,la Font d'en Fargues,Female,Registered unemployed,261
+2018,May,7,Horta-Guinardó,37,el Carmel,Female,Registered unemployed,891
+2018,May,7,Horta-Guinardó,38,la Teixonera,Female,Registered unemployed,270
+2018,May,7,Horta-Guinardó,39,Sant Genís dels Agudells,Female,Registered unemployed,163
+2018,May,7,Horta-Guinardó,40,Montbau,Female,Registered unemployed,118
+2018,May,7,Horta-Guinardó,41,la Vall d'Hebron,Female,Registered unemployed,126
+2018,May,7,Horta-Guinardó,42,la Clota,Female,Registered unemployed,9
+2018,May,7,Horta-Guinardó,43,Horta,Female,Registered unemployed,760
+2018,May,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Female,Registered unemployed,706
+2018,May,8,Nou Barris,45,Porta,Female,Registered unemployed,678
+2018,May,8,Nou Barris,46,el Turó de la Peira,Female,Registered unemployed,443
+2018,May,8,Nou Barris,47,Can Peguera,Female,Registered unemployed,63
+2018,May,8,Nou Barris,48,la Guineueta,Female,Registered unemployed,523
+2018,May,8,Nou Barris,49,Canyelles,Female,Registered unemployed,255
+2018,May,8,Nou Barris,50,les Roquetes,Female,Registered unemployed,553
+2018,May,8,Nou Barris,51,Verdun,Female,Registered unemployed,424
+2018,May,8,Nou Barris,52,la Prosperitat,Female,Registered unemployed,762
+2018,May,8,Nou Barris,53,la Trinitat Nova,Female,Registered unemployed,350
+2018,May,8,Nou Barris,54,Torre Baró,Female,Registered unemployed,96
+2018,May,8,Nou Barris,55,Ciutat Meridiana,Female,Registered unemployed,502
+2018,May,8,Nou Barris,56,Vallbona,Female,Registered unemployed,58
+2018,May,9,Sant Andreu,57,la Trinitat Vella,Female,Registered unemployed,466
+2018,May,9,Sant Andreu,58,Baró de Viver,Female,Registered unemployed,68
+2018,May,9,Sant Andreu,59,el Bon Pastor,Female,Registered unemployed,389
+2018,May,9,Sant Andreu,60,Sant Andreu,Female,Registered unemployed,1575
+2018,May,9,Sant Andreu,61,la Sagrera,Female,Registered unemployed,699
+2018,May,9,Sant Andreu,62,el Congrés i els Indians,Female,Registered unemployed,340
+2018,May,9,Sant Andreu,63,Navas,Female,Registered unemployed,522
+2018,May,10,Sant Martí,64,el Camp de l'Arpa del Clot,Female,Registered unemployed,950
+2018,May,10,Sant Martí,65,el Clot,Female,Registered unemployed,664
+2018,May,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Female,Registered unemployed,325
+2018,May,10,Sant Martí,67,la Vila Olímpica del Poblenou,Female,Registered unemployed,211
+2018,May,10,Sant Martí,68,el Poblenou,Female,Registered unemployed,728
+2018,May,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Female,Registered unemployed,339
+2018,May,10,Sant Martí,70,el Besòs i el Maresme,Female,Registered unemployed,777
+2018,May,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,536
+2018,May,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,759
+2018,May,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,861
+2018,May,99,No consta,99,No consta,Female,Registered unemployed,2
+2018,June,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1736
+2018,June,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,427
+2018,June,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,449
+2018,June,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Male,Registered unemployed,618
+2018,June,2,Eixample,5,el Fort Pienc,Male,Registered unemployed,517
+2018,June,2,Eixample,6,la Sagrada Família,Male,Registered unemployed,800
+2018,June,2,Eixample,7,la Dreta de l'Eixample,Male,Registered unemployed,533
+2018,June,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Male,Registered unemployed,611
+2018,June,2,Eixample,9,la Nova Esquerra de l'Eixample,Male,Registered unemployed,888
+2018,June,2,Eixample,10,Sant Antoni,Male,Registered unemployed,672
+2018,June,3,Sants-Montjuïc,11,el Poble Sec,Male,Registered unemployed,1024
+2018,June,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Male,Registered unemployed,55
+2018,June,3,Sants-Montjuïc,13,la Marina de Port,Male,Registered unemployed,666
+2018,June,3,Sants-Montjuïc,14,la Font de la Guatlla,Male,Registered unemployed,256
+2018,June,3,Sants-Montjuïc,15,Hostafrancs,Male,Registered unemployed,289
+2018,June,3,Sants-Montjuïc,16,la Bordeta,Male,Registered unemployed,340
+2018,June,3,Sants-Montjuïc,17,Sants - Badal,Male,Registered unemployed,351
+2018,June,3,Sants-Montjuïc,18,Sants,Male,Registered unemployed,682
+2018,June,4,Les Corts,19,les Corts,Male,Registered unemployed,688
+2018,June,4,Les Corts,20,la Maternitat i Sant Ramon,Male,Registered unemployed,347
+2018,June,4,Les Corts,21,Pedralbes,Male,Registered unemployed,83
+2018,June,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Male,Registered unemployed,42
+2018,June,5,Sarrià-Sant Gervasi,23,Sarrià,Male,Registered unemployed,192
+2018,June,5,Sarrià-Sant Gervasi,24,les Tres Torres,Male,Registered unemployed,161
+2018,June,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Male,Registered unemployed,243
+2018,June,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Male,Registered unemployed,412
+2018,June,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Male,Registered unemployed,390
+2018,June,6,Gràcia,28,Vallcarca i els Penitents,Male,Registered unemployed,251
+2018,June,6,Gràcia,29,el Coll,Male,Registered unemployed,103
+2018,June,6,Gràcia,30,la Salut,Male,Registered unemployed,214
+2018,June,6,Gràcia,31,la Vila de Gràcia,Male,Registered unemployed,827
+2018,June,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Male,Registered unemployed,515
+2018,June,7,Horta-Guinardó,33,el Baix Guinardó,Male,Registered unemployed,395
+2018,June,7,Horta-Guinardó,34,Can Baró,Male,Registered unemployed,154
+2018,June,7,Horta-Guinardó,35,el Guinardó,Male,Registered unemployed,653
+2018,June,7,Horta-Guinardó,36,la Font d'en Fargues,Male,Registered unemployed,204
+2018,June,7,Horta-Guinardó,37,el Carmel,Male,Registered unemployed,696
+2018,June,7,Horta-Guinardó,38,la Teixonera,Male,Registered unemployed,221
+2018,June,7,Horta-Guinardó,39,Sant Genís dels Agudells,Male,Registered unemployed,135
+2018,June,7,Horta-Guinardó,40,Montbau,Male,Registered unemployed,98
+2018,June,7,Horta-Guinardó,41,la Vall d'Hebron,Male,Registered unemployed,104
+2018,June,7,Horta-Guinardó,42,la Clota,Male,Registered unemployed,7
+2018,June,7,Horta-Guinardó,43,Horta,Male,Registered unemployed,583
+2018,June,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Male,Registered unemployed,532
+2018,June,8,Nou Barris,45,Porta,Male,Registered unemployed,503
+2018,June,8,Nou Barris,46,el Turó de la Peira,Male,Registered unemployed,338
+2018,June,8,Nou Barris,47,Can Peguera,Male,Registered unemployed,47
+2018,June,8,Nou Barris,48,la Guineueta,Male,Registered unemployed,371
+2018,June,8,Nou Barris,49,Canyelles,Male,Registered unemployed,181
+2018,June,8,Nou Barris,50,les Roquetes,Male,Registered unemployed,392
+2018,June,8,Nou Barris,51,Verdun,Male,Registered unemployed,301
+2018,June,8,Nou Barris,52,la Prosperitat,Male,Registered unemployed,565
+2018,June,8,Nou Barris,53,la Trinitat Nova,Male,Registered unemployed,280
+2018,June,8,Nou Barris,54,Torre Baró,Male,Registered unemployed,78
+2018,June,8,Nou Barris,55,Ciutat Meridiana,Male,Registered unemployed,406
+2018,June,8,Nou Barris,56,Vallbona,Male,Registered unemployed,47
+2018,June,9,Sant Andreu,57,la Trinitat Vella,Male,Registered unemployed,376
+2018,June,9,Sant Andreu,58,Baró de Viver,Male,Registered unemployed,45
+2018,June,9,Sant Andreu,59,el Bon Pastor,Male,Registered unemployed,254
+2018,June,9,Sant Andreu,60,Sant Andreu,Male,Registered unemployed,1028
+2018,June,9,Sant Andreu,61,la Sagrera,Male,Registered unemployed,509
+2018,June,9,Sant Andreu,62,el Congrés i els Indians,Male,Registered unemployed,248
+2018,June,9,Sant Andreu,63,Navas,Male,Registered unemployed,382
+2018,June,10,Sant Martí,64,el Camp de l'Arpa del Clot,Male,Registered unemployed,770
+2018,June,10,Sant Martí,65,el Clot,Male,Registered unemployed,515
+2018,June,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Male,Registered unemployed,246
+2018,June,10,Sant Martí,67,la Vila Olímpica del Poblenou,Male,Registered unemployed,163
+2018,June,10,Sant Martí,68,el Poblenou,Male,Registered unemployed,560
+2018,June,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Male,Registered unemployed,272
+2018,June,10,Sant Martí,70,el Besòs i el Maresme,Male,Registered unemployed,624
+2018,June,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,411
+2018,June,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,576
+2018,June,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,654
+2018,June,99,No consta,99,No consta,Male,Registered unemployed,6
+2018,June,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1336
+2018,June,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,391
+2018,June,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,454
+2018,June,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Female,Registered unemployed,628
+2018,June,2,Eixample,5,el Fort Pienc,Female,Registered unemployed,652
+2018,June,2,Eixample,6,la Sagrada Família,Female,Registered unemployed,1065
+2018,June,2,Eixample,7,la Dreta de l'Eixample,Female,Registered unemployed,675
+2018,June,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Female,Registered unemployed,743
+2018,June,2,Eixample,9,la Nova Esquerra de l'Eixample,Female,Registered unemployed,1102
+2018,June,2,Eixample,10,Sant Antoni,Female,Registered unemployed,790
+2018,June,3,Sants-Montjuïc,11,el Poble Sec,Female,Registered unemployed,1062
+2018,June,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Female,Registered unemployed,45
+2018,June,3,Sants-Montjuïc,13,la Marina de Port,Female,Registered unemployed,941
+2018,June,3,Sants-Montjuïc,14,la Font de la Guatlla,Female,Registered unemployed,271
+2018,June,3,Sants-Montjuïc,15,Hostafrancs,Female,Registered unemployed,385
+2018,June,3,Sants-Montjuïc,16,la Bordeta,Female,Registered unemployed,452
+2018,June,3,Sants-Montjuïc,17,Sants - Badal,Female,Registered unemployed,484
+2018,June,3,Sants-Montjuïc,18,Sants,Female,Registered unemployed,919
+2018,June,4,Les Corts,19,les Corts,Female,Registered unemployed,918
+2018,June,4,Les Corts,20,la Maternitat i Sant Ramon,Female,Registered unemployed,478
+2018,June,4,Les Corts,21,Pedralbes,Female,Registered unemployed,124
+2018,June,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Female,Registered unemployed,45
+2018,June,5,Sarrià-Sant Gervasi,23,Sarrià,Female,Registered unemployed,257
+2018,June,5,Sarrià-Sant Gervasi,24,les Tres Torres,Female,Registered unemployed,176
+2018,June,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Female,Registered unemployed,298
+2018,June,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Female,Registered unemployed,566
+2018,June,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Female,Registered unemployed,486
+2018,June,6,Gràcia,28,Vallcarca i els Penitents,Female,Registered unemployed,311
+2018,June,6,Gràcia,29,el Coll,Female,Registered unemployed,129
+2018,June,6,Gràcia,30,la Salut,Female,Registered unemployed,276
+2018,June,6,Gràcia,31,la Vila de Gràcia,Female,Registered unemployed,1073
+2018,June,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Female,Registered unemployed,685
+2018,June,7,Horta-Guinardó,33,el Baix Guinardó,Female,Registered unemployed,536
+2018,June,7,Horta-Guinardó,34,Can Baró,Female,Registered unemployed,199
+2018,June,7,Horta-Guinardó,35,el Guinardó,Female,Registered unemployed,836
+2018,June,7,Horta-Guinardó,36,la Font d'en Fargues,Female,Registered unemployed,258
+2018,June,7,Horta-Guinardó,37,el Carmel,Female,Registered unemployed,878
+2018,June,7,Horta-Guinardó,38,la Teixonera,Female,Registered unemployed,264
+2018,June,7,Horta-Guinardó,39,Sant Genís dels Agudells,Female,Registered unemployed,159
+2018,June,7,Horta-Guinardó,40,Montbau,Female,Registered unemployed,115
+2018,June,7,Horta-Guinardó,41,la Vall d'Hebron,Female,Registered unemployed,123
+2018,June,7,Horta-Guinardó,42,la Clota,Female,Registered unemployed,9
+2018,June,7,Horta-Guinardó,43,Horta,Female,Registered unemployed,753
+2018,June,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Female,Registered unemployed,701
+2018,June,8,Nou Barris,45,Porta,Female,Registered unemployed,674
+2018,June,8,Nou Barris,46,el Turó de la Peira,Female,Registered unemployed,441
+2018,June,8,Nou Barris,47,Can Peguera,Female,Registered unemployed,62
+2018,June,8,Nou Barris,48,la Guineueta,Female,Registered unemployed,512
+2018,June,8,Nou Barris,49,Canyelles,Female,Registered unemployed,250
+2018,June,8,Nou Barris,50,les Roquetes,Female,Registered unemployed,542
+2018,June,8,Nou Barris,51,Verdun,Female,Registered unemployed,416
+2018,June,8,Nou Barris,52,la Prosperitat,Female,Registered unemployed,757
+2018,June,8,Nou Barris,53,la Trinitat Nova,Female,Registered unemployed,341
+2018,June,8,Nou Barris,54,Torre Baró,Female,Registered unemployed,94
+2018,June,8,Nou Barris,55,Ciutat Meridiana,Female,Registered unemployed,489
+2018,June,8,Nou Barris,56,Vallbona,Female,Registered unemployed,57
+2018,June,9,Sant Andreu,57,la Trinitat Vella,Female,Registered unemployed,453
+2018,June,9,Sant Andreu,58,Baró de Viver,Female,Registered unemployed,68
+2018,June,9,Sant Andreu,59,el Bon Pastor,Female,Registered unemployed,386
+2018,June,9,Sant Andreu,60,Sant Andreu,Female,Registered unemployed,1564
+2018,June,9,Sant Andreu,61,la Sagrera,Female,Registered unemployed,668
+2018,June,9,Sant Andreu,62,el Congrés i els Indians,Female,Registered unemployed,325
+2018,June,9,Sant Andreu,63,Navas,Female,Registered unemployed,500
+2018,June,10,Sant Martí,64,el Camp de l'Arpa del Clot,Female,Registered unemployed,931
+2018,June,10,Sant Martí,65,el Clot,Female,Registered unemployed,642
+2018,June,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Female,Registered unemployed,314
+2018,June,10,Sant Martí,67,la Vila Olímpica del Poblenou,Female,Registered unemployed,210
+2018,June,10,Sant Martí,68,el Poblenou,Female,Registered unemployed,723
+2018,June,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Female,Registered unemployed,335
+2018,June,10,Sant Martí,70,el Besòs i el Maresme,Female,Registered unemployed,768
+2018,June,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,521
+2018,June,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,739
+2018,June,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,838
+2018,June,99,No consta,99,No consta,Female,Registered unemployed,4
+2018,July,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1695
+2018,July,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,436
+2018,July,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,446
+2018,July,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Male,Registered unemployed,614
+2018,July,2,Eixample,5,el Fort Pienc,Male,Registered unemployed,512
+2018,July,2,Eixample,6,la Sagrada Família,Male,Registered unemployed,788
+2018,July,2,Eixample,7,la Dreta de l'Eixample,Male,Registered unemployed,531
+2018,July,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Male,Registered unemployed,596
+2018,July,2,Eixample,9,la Nova Esquerra de l'Eixample,Male,Registered unemployed,883
+2018,July,2,Eixample,10,Sant Antoni,Male,Registered unemployed,658
+2018,July,3,Sants-Montjuïc,11,el Poble Sec,Male,Registered unemployed,994
+2018,July,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Male,Registered unemployed,52
+2018,July,3,Sants-Montjuïc,13,la Marina de Port,Male,Registered unemployed,633
+2018,July,3,Sants-Montjuïc,14,la Font de la Guatlla,Male,Registered unemployed,248
+2018,July,3,Sants-Montjuïc,15,Hostafrancs,Male,Registered unemployed,290
+2018,July,3,Sants-Montjuïc,16,la Bordeta,Male,Registered unemployed,341
+2018,July,3,Sants-Montjuïc,17,Sants - Badal,Male,Registered unemployed,349
+2018,July,3,Sants-Montjuïc,18,Sants,Male,Registered unemployed,682
+2018,July,4,Les Corts,19,les Corts,Male,Registered unemployed,690
+2018,July,4,Les Corts,20,la Maternitat i Sant Ramon,Male,Registered unemployed,345
+2018,July,4,Les Corts,21,Pedralbes,Male,Registered unemployed,87
+2018,July,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Male,Registered unemployed,45
+2018,July,5,Sarrià-Sant Gervasi,23,Sarrià,Male,Registered unemployed,203
+2018,July,5,Sarrià-Sant Gervasi,24,les Tres Torres,Male,Registered unemployed,172
+2018,July,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Male,Registered unemployed,241
+2018,July,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Male,Registered unemployed,421
+2018,July,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Male,Registered unemployed,394
+2018,July,6,Gràcia,28,Vallcarca i els Penitents,Male,Registered unemployed,255
+2018,July,6,Gràcia,29,el Coll,Male,Registered unemployed,106
+2018,July,6,Gràcia,30,la Salut,Male,Registered unemployed,218
+2018,July,6,Gràcia,31,la Vila de Gràcia,Male,Registered unemployed,836
+2018,July,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Male,Registered unemployed,514
+2018,July,7,Horta-Guinardó,33,el Baix Guinardó,Male,Registered unemployed,392
+2018,July,7,Horta-Guinardó,34,Can Baró,Male,Registered unemployed,156
+2018,July,7,Horta-Guinardó,35,el Guinardó,Male,Registered unemployed,661
+2018,July,7,Horta-Guinardó,36,la Font d'en Fargues,Male,Registered unemployed,207
+2018,July,7,Horta-Guinardó,37,el Carmel,Male,Registered unemployed,706
+2018,July,7,Horta-Guinardó,38,la Teixonera,Male,Registered unemployed,223
+2018,July,7,Horta-Guinardó,39,Sant Genís dels Agudells,Male,Registered unemployed,137
+2018,July,7,Horta-Guinardó,40,Montbau,Male,Registered unemployed,99
+2018,July,7,Horta-Guinardó,41,la Vall d'Hebron,Male,Registered unemployed,105
+2018,July,7,Horta-Guinardó,42,la Clota,Male,Registered unemployed,7
+2018,July,7,Horta-Guinardó,43,Horta,Male,Registered unemployed,566
+2018,July,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Male,Registered unemployed,507
+2018,July,8,Nou Barris,45,Porta,Male,Registered unemployed,486
+2018,July,8,Nou Barris,46,el Turó de la Peira,Male,Registered unemployed,318
+2018,July,8,Nou Barris,47,Can Peguera,Male,Registered unemployed,44
+2018,July,8,Nou Barris,48,la Guineueta,Male,Registered unemployed,356
+2018,July,8,Nou Barris,49,Canyelles,Male,Registered unemployed,174
+2018,July,8,Nou Barris,50,les Roquetes,Male,Registered unemployed,377
+2018,July,8,Nou Barris,51,Verdun,Male,Registered unemployed,289
+2018,July,8,Nou Barris,52,la Prosperitat,Male,Registered unemployed,546
+2018,July,8,Nou Barris,53,la Trinitat Nova,Male,Registered unemployed,264
+2018,July,8,Nou Barris,54,Torre Baró,Male,Registered unemployed,73
+2018,July,8,Nou Barris,55,Ciutat Meridiana,Male,Registered unemployed,382
+2018,July,8,Nou Barris,56,Vallbona,Male,Registered unemployed,44
+2018,July,9,Sant Andreu,57,la Trinitat Vella,Male,Registered unemployed,354
+2018,July,9,Sant Andreu,58,Baró de Viver,Male,Registered unemployed,44
+2018,July,9,Sant Andreu,59,el Bon Pastor,Male,Registered unemployed,251
+2018,July,9,Sant Andreu,60,Sant Andreu,Male,Registered unemployed,1014
+2018,July,9,Sant Andreu,61,la Sagrera,Male,Registered unemployed,491
+2018,July,9,Sant Andreu,62,el Congrés i els Indians,Male,Registered unemployed,239
+2018,July,9,Sant Andreu,63,Navas,Male,Registered unemployed,371
+2018,July,10,Sant Martí,64,el Camp de l'Arpa del Clot,Male,Registered unemployed,774
+2018,July,10,Sant Martí,65,el Clot,Male,Registered unemployed,510
+2018,July,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Male,Registered unemployed,244
+2018,July,10,Sant Martí,67,la Vila Olímpica del Poblenou,Male,Registered unemployed,165
+2018,July,10,Sant Martí,68,el Poblenou,Male,Registered unemployed,565
+2018,July,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Male,Registered unemployed,263
+2018,July,10,Sant Martí,70,el Besòs i el Maresme,Male,Registered unemployed,603
+2018,July,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,400
+2018,July,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,559
+2018,July,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,633
+2018,July,99,No consta,99,No consta,Male,Registered unemployed,4
+2018,July,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1348
+2018,July,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,375
+2018,July,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,456
+2018,July,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Female,Registered unemployed,634
+2018,July,2,Eixample,5,el Fort Pienc,Female,Registered unemployed,672
+2018,July,2,Eixample,6,la Sagrada Família,Female,Registered unemployed,1097
+2018,July,2,Eixample,7,la Dreta de l'Eixample,Female,Registered unemployed,702
+2018,July,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Female,Registered unemployed,759
+2018,July,2,Eixample,9,la Nova Esquerra de l'Eixample,Female,Registered unemployed,1113
+2018,July,2,Eixample,10,Sant Antoni,Female,Registered unemployed,794
+2018,July,3,Sants-Montjuïc,11,el Poble Sec,Female,Registered unemployed,1076
+2018,July,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Female,Registered unemployed,46
+2018,July,3,Sants-Montjuïc,13,la Marina de Port,Female,Registered unemployed,959
+2018,July,3,Sants-Montjuïc,14,la Font de la Guatlla,Female,Registered unemployed,275
+2018,July,3,Sants-Montjuïc,15,Hostafrancs,Female,Registered unemployed,394
+2018,July,3,Sants-Montjuïc,16,la Bordeta,Female,Registered unemployed,462
+2018,July,3,Sants-Montjuïc,17,Sants - Badal,Female,Registered unemployed,495
+2018,July,3,Sants-Montjuïc,18,Sants,Female,Registered unemployed,940
+2018,July,4,Les Corts,19,les Corts,Female,Registered unemployed,938
+2018,July,4,Les Corts,20,la Maternitat i Sant Ramon,Female,Registered unemployed,489
+2018,July,4,Les Corts,21,Pedralbes,Female,Registered unemployed,128
+2018,July,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Female,Registered unemployed,47
+2018,July,5,Sarrià-Sant Gervasi,23,Sarrià,Female,Registered unemployed,266
+2018,July,5,Sarrià-Sant Gervasi,24,les Tres Torres,Female,Registered unemployed,183
+2018,July,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Female,Registered unemployed,307
+2018,July,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Female,Registered unemployed,593
+2018,July,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Female,Registered unemployed,505
+2018,July,6,Gràcia,28,Vallcarca i els Penitents,Female,Registered unemployed,318
+2018,July,6,Gràcia,29,el Coll,Female,Registered unemployed,132
+2018,July,6,Gràcia,30,la Salut,Female,Registered unemployed,283
+2018,July,6,Gràcia,31,la Vila de Gràcia,Female,Registered unemployed,1115
+2018,July,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Female,Registered unemployed,710
+2018,July,7,Horta-Guinardó,33,el Baix Guinardó,Female,Registered unemployed,551
+2018,July,7,Horta-Guinardó,34,Can Baró,Female,Registered unemployed,204
+2018,July,7,Horta-Guinardó,35,el Guinardó,Female,Registered unemployed,858
+2018,July,7,Horta-Guinardó,36,la Font d'en Fargues,Female,Registered unemployed,258
+2018,July,7,Horta-Guinardó,37,el Carmel,Female,Registered unemployed,880
+2018,July,7,Horta-Guinardó,38,la Teixonera,Female,Registered unemployed,269
+2018,July,7,Horta-Guinardó,39,Sant Genís dels Agudells,Female,Registered unemployed,163
+2018,July,7,Horta-Guinardó,40,Montbau,Female,Registered unemployed,118
+2018,July,7,Horta-Guinardó,41,la Vall d'Hebron,Female,Registered unemployed,125
+2018,July,7,Horta-Guinardó,42,la Clota,Female,Registered unemployed,9
+2018,July,7,Horta-Guinardó,43,Horta,Female,Registered unemployed,750
+2018,July,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Female,Registered unemployed,693
+2018,July,8,Nou Barris,45,Porta,Female,Registered unemployed,661
+2018,July,8,Nou Barris,46,el Turó de la Peira,Female,Registered unemployed,437
+2018,July,8,Nou Barris,47,Can Peguera,Female,Registered unemployed,62
+2018,July,8,Nou Barris,48,la Guineueta,Female,Registered unemployed,523
+2018,July,8,Nou Barris,49,Canyelles,Female,Registered unemployed,255
+2018,July,8,Nou Barris,50,les Roquetes,Female,Registered unemployed,553
+2018,July,8,Nou Barris,51,Verdun,Female,Registered unemployed,424
+2018,July,8,Nou Barris,52,la Prosperitat,Female,Registered unemployed,743
+2018,July,8,Nou Barris,53,la Trinitat Nova,Female,Registered unemployed,336
+2018,July,8,Nou Barris,54,Torre Baró,Female,Registered unemployed,92
+2018,July,8,Nou Barris,55,Ciutat Meridiana,Female,Registered unemployed,481
+2018,July,8,Nou Barris,56,Vallbona,Female,Registered unemployed,56
+2018,July,9,Sant Andreu,57,la Trinitat Vella,Female,Registered unemployed,446
+2018,July,9,Sant Andreu,58,Baró de Viver,Female,Registered unemployed,68
+2018,July,9,Sant Andreu,59,el Bon Pastor,Female,Registered unemployed,386
+2018,July,9,Sant Andreu,60,Sant Andreu,Female,Registered unemployed,1561
+2018,July,9,Sant Andreu,61,la Sagrera,Female,Registered unemployed,672
+2018,July,9,Sant Andreu,62,el Congrés i els Indians,Female,Registered unemployed,327
+2018,July,9,Sant Andreu,63,Navas,Female,Registered unemployed,505
+2018,July,10,Sant Martí,64,el Camp de l'Arpa del Clot,Female,Registered unemployed,945
+2018,July,10,Sant Martí,65,el Clot,Female,Registered unemployed,665
+2018,July,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Female,Registered unemployed,331
+2018,July,10,Sant Martí,67,la Vila Olímpica del Poblenou,Female,Registered unemployed,220
+2018,July,10,Sant Martí,68,el Poblenou,Female,Registered unemployed,756
+2018,July,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Female,Registered unemployed,338
+2018,July,10,Sant Martí,70,el Besòs i el Maresme,Female,Registered unemployed,773
+2018,July,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,528
+2018,July,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,730
+2018,July,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,825
+2018,July,99,No consta,99,No consta,Female,Registered unemployed,4
+2018,August,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1679
+2018,August,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,462
+2018,August,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,463
+2018,August,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Male,Registered unemployed,637
+2018,August,2,Eixample,5,el Fort Pienc,Male,Registered unemployed,515
+2018,August,2,Eixample,6,la Sagrada Família,Male,Registered unemployed,816
+2018,August,2,Eixample,7,la Dreta de l'Eixample,Male,Registered unemployed,552
+2018,August,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Male,Registered unemployed,635
+2018,August,2,Eixample,9,la Nova Esquerra de l'Eixample,Male,Registered unemployed,923
+2018,August,2,Eixample,10,Sant Antoni,Male,Registered unemployed,688
+2018,August,3,Sants-Montjuïc,11,el Poble Sec,Male,Registered unemployed,1008
+2018,August,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Male,Registered unemployed,48
+2018,August,3,Sants-Montjuïc,13,la Marina de Port,Male,Registered unemployed,677
+2018,August,3,Sants-Montjuïc,14,la Font de la Guatlla,Male,Registered unemployed,252
+2018,August,3,Sants-Montjuïc,15,Hostafrancs,Male,Registered unemployed,295
+2018,August,3,Sants-Montjuïc,16,la Bordeta,Male,Registered unemployed,346
+2018,August,3,Sants-Montjuïc,17,Sants - Badal,Male,Registered unemployed,372
+2018,August,3,Sants-Montjuïc,18,Sants,Male,Registered unemployed,707
+2018,August,4,Les Corts,19,les Corts,Male,Registered unemployed,721
+2018,August,4,Les Corts,20,la Maternitat i Sant Ramon,Male,Registered unemployed,368
+2018,August,4,Les Corts,21,Pedralbes,Male,Registered unemployed,84
+2018,August,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Male,Registered unemployed,47
+2018,August,5,Sarrià-Sant Gervasi,23,Sarrià,Male,Registered unemployed,204
+2018,August,5,Sarrià-Sant Gervasi,24,les Tres Torres,Male,Registered unemployed,181
+2018,August,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Male,Registered unemployed,243
+2018,August,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Male,Registered unemployed,418
+2018,August,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Male,Registered unemployed,401
+2018,August,6,Gràcia,28,Vallcarca i els Penitents,Male,Registered unemployed,265
+2018,August,6,Gràcia,29,el Coll,Male,Registered unemployed,110
+2018,August,6,Gràcia,30,la Salut,Male,Registered unemployed,224
+2018,August,6,Gràcia,31,la Vila de Gràcia,Male,Registered unemployed,860
+2018,August,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Male,Registered unemployed,540
+2018,August,7,Horta-Guinardó,33,el Baix Guinardó,Male,Registered unemployed,412
+2018,August,7,Horta-Guinardó,34,Can Baró,Male,Registered unemployed,160
+2018,August,7,Horta-Guinardó,35,el Guinardó,Male,Registered unemployed,688
+2018,August,7,Horta-Guinardó,36,la Font d'en Fargues,Male,Registered unemployed,214
+2018,August,7,Horta-Guinardó,37,el Carmel,Male,Registered unemployed,729
+2018,August,7,Horta-Guinardó,38,la Teixonera,Male,Registered unemployed,229
+2018,August,7,Horta-Guinardó,39,Sant Genís dels Agudells,Male,Registered unemployed,140
+2018,August,7,Horta-Guinardó,40,Montbau,Male,Registered unemployed,101
+2018,August,7,Horta-Guinardó,41,la Vall d'Hebron,Male,Registered unemployed,108
+2018,August,7,Horta-Guinardó,42,la Clota,Male,Registered unemployed,8
+2018,August,7,Horta-Guinardó,43,Horta,Male,Registered unemployed,583
+2018,August,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Male,Registered unemployed,524
+2018,August,8,Nou Barris,45,Porta,Male,Registered unemployed,507
+2018,August,8,Nou Barris,46,el Turó de la Peira,Male,Registered unemployed,328
+2018,August,8,Nou Barris,47,Can Peguera,Male,Registered unemployed,46
+2018,August,8,Nou Barris,48,la Guineueta,Male,Registered unemployed,371
+2018,August,8,Nou Barris,49,Canyelles,Male,Registered unemployed,181
+2018,August,8,Nou Barris,50,les Roquetes,Male,Registered unemployed,392
+2018,August,8,Nou Barris,51,Verdun,Male,Registered unemployed,301
+2018,August,8,Nou Barris,52,la Prosperitat,Male,Registered unemployed,570
+2018,August,8,Nou Barris,53,la Trinitat Nova,Male,Registered unemployed,271
+2018,August,8,Nou Barris,54,Torre Baró,Male,Registered unemployed,75
+2018,August,8,Nou Barris,55,Ciutat Meridiana,Male,Registered unemployed,392
+2018,August,8,Nou Barris,56,Vallbona,Male,Registered unemployed,45
+2018,August,9,Sant Andreu,57,la Trinitat Vella,Male,Registered unemployed,363
+2018,August,9,Sant Andreu,58,Baró de Viver,Male,Registered unemployed,46
+2018,August,9,Sant Andreu,59,el Bon Pastor,Male,Registered unemployed,263
+2018,August,9,Sant Andreu,60,Sant Andreu,Male,Registered unemployed,1065
+2018,August,9,Sant Andreu,61,la Sagrera,Male,Registered unemployed,514
+2018,August,9,Sant Andreu,62,el Congrés i els Indians,Male,Registered unemployed,250
+2018,August,9,Sant Andreu,63,Navas,Male,Registered unemployed,388
+2018,August,10,Sant Martí,64,el Camp de l'Arpa del Clot,Male,Registered unemployed,786
+2018,August,10,Sant Martí,65,el Clot,Male,Registered unemployed,527
+2018,August,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Male,Registered unemployed,256
+2018,August,10,Sant Martí,67,la Vila Olímpica del Poblenou,Male,Registered unemployed,176
+2018,August,10,Sant Martí,68,el Poblenou,Male,Registered unemployed,601
+2018,August,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Male,Registered unemployed,267
+2018,August,10,Sant Martí,70,el Besòs i el Maresme,Male,Registered unemployed,611
+2018,August,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,416
+2018,August,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,586
+2018,August,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,664
+2018,August,99,No consta,99,No consta,Male,Registered unemployed,6
+2018,August,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1333
+2018,August,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,390
+2018,August,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,469
+2018,August,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Female,Registered unemployed,653
+2018,August,2,Eixample,5,el Fort Pienc,Female,Registered unemployed,685
+2018,August,2,Eixample,6,la Sagrada Família,Female,Registered unemployed,1112
+2018,August,2,Eixample,7,la Dreta de l'Eixample,Female,Registered unemployed,707
+2018,August,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Female,Registered unemployed,792
+2018,August,2,Eixample,9,la Nova Esquerra de l'Eixample,Female,Registered unemployed,1166
+2018,August,2,Eixample,10,Sant Antoni,Female,Registered unemployed,832
+2018,August,3,Sants-Montjuïc,11,el Poble Sec,Female,Registered unemployed,1110
+2018,August,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Female,Registered unemployed,47
+2018,August,3,Sants-Montjuïc,13,la Marina de Port,Female,Registered unemployed,979
+2018,August,3,Sants-Montjuïc,14,la Font de la Guatlla,Female,Registered unemployed,283
+2018,August,3,Sants-Montjuïc,15,Hostafrancs,Female,Registered unemployed,400
+2018,August,3,Sants-Montjuïc,16,la Bordeta,Female,Registered unemployed,469
+2018,August,3,Sants-Montjuïc,17,Sants - Badal,Female,Registered unemployed,511
+2018,August,3,Sants-Montjuïc,18,Sants,Female,Registered unemployed,963
+2018,August,4,Les Corts,19,les Corts,Female,Registered unemployed,974
+2018,August,4,Les Corts,20,la Maternitat i Sant Ramon,Female,Registered unemployed,505
+2018,August,4,Les Corts,21,Pedralbes,Female,Registered unemployed,136
+2018,August,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Female,Registered unemployed,50
+2018,August,5,Sarrià-Sant Gervasi,23,Sarrià,Female,Registered unemployed,282
+2018,August,5,Sarrià-Sant Gervasi,24,les Tres Torres,Female,Registered unemployed,194
+2018,August,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Female,Registered unemployed,319
+2018,August,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Female,Registered unemployed,592
+2018,August,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Female,Registered unemployed,522
+2018,August,6,Gràcia,28,Vallcarca i els Penitents,Female,Registered unemployed,333
+2018,August,6,Gràcia,29,el Coll,Female,Registered unemployed,139
+2018,August,6,Gràcia,30,la Salut,Female,Registered unemployed,300
+2018,August,6,Gràcia,31,la Vila de Gràcia,Female,Registered unemployed,1144
+2018,August,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Female,Registered unemployed,725
+2018,August,7,Horta-Guinardó,33,el Baix Guinardó,Female,Registered unemployed,566
+2018,August,7,Horta-Guinardó,34,Can Baró,Female,Registered unemployed,216
+2018,August,7,Horta-Guinardó,35,el Guinardó,Female,Registered unemployed,876
+2018,August,7,Horta-Guinardó,36,la Font d'en Fargues,Female,Registered unemployed,264
+2018,August,7,Horta-Guinardó,37,el Carmel,Female,Registered unemployed,901
+2018,August,7,Horta-Guinardó,38,la Teixonera,Female,Registered unemployed,277
+2018,August,7,Horta-Guinardó,39,Sant Genís dels Agudells,Female,Registered unemployed,168
+2018,August,7,Horta-Guinardó,40,Montbau,Female,Registered unemployed,122
+2018,August,7,Horta-Guinardó,41,la Vall d'Hebron,Female,Registered unemployed,130
+2018,August,7,Horta-Guinardó,42,la Clota,Female,Registered unemployed,9
+2018,August,7,Horta-Guinardó,43,Horta,Female,Registered unemployed,762
+2018,August,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Female,Registered unemployed,709
+2018,August,8,Nou Barris,45,Porta,Female,Registered unemployed,684
+2018,August,8,Nou Barris,46,el Turó de la Peira,Female,Registered unemployed,443
+2018,August,8,Nou Barris,47,Can Peguera,Female,Registered unemployed,63
+2018,August,8,Nou Barris,48,la Guineueta,Female,Registered unemployed,526
+2018,August,8,Nou Barris,49,Canyelles,Female,Registered unemployed,257
+2018,August,8,Nou Barris,50,les Roquetes,Female,Registered unemployed,556
+2018,August,8,Nou Barris,51,Verdun,Female,Registered unemployed,427
+2018,August,8,Nou Barris,52,la Prosperitat,Female,Registered unemployed,768
+2018,August,8,Nou Barris,53,la Trinitat Nova,Female,Registered unemployed,330
+2018,August,8,Nou Barris,54,Torre Baró,Female,Registered unemployed,90
+2018,August,8,Nou Barris,55,Ciutat Meridiana,Female,Registered unemployed,471
+2018,August,8,Nou Barris,56,Vallbona,Female,Registered unemployed,55
+2018,August,9,Sant Andreu,57,la Trinitat Vella,Female,Registered unemployed,436
+2018,August,9,Sant Andreu,58,Baró de Viver,Female,Registered unemployed,72
+2018,August,9,Sant Andreu,59,el Bon Pastor,Female,Registered unemployed,410
+2018,August,9,Sant Andreu,60,Sant Andreu,Female,Registered unemployed,1661
+2018,August,9,Sant Andreu,61,la Sagrera,Female,Registered unemployed,711
+2018,August,9,Sant Andreu,62,el Congrés i els Indians,Female,Registered unemployed,346
+2018,August,9,Sant Andreu,63,Navas,Female,Registered unemployed,532
+2018,August,10,Sant Martí,64,el Camp de l'Arpa del Clot,Female,Registered unemployed,967
+2018,August,10,Sant Martí,65,el Clot,Female,Registered unemployed,701
+2018,August,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Female,Registered unemployed,353
+2018,August,10,Sant Martí,67,la Vila Olímpica del Poblenou,Female,Registered unemployed,229
+2018,August,10,Sant Martí,68,el Poblenou,Female,Registered unemployed,790
+2018,August,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Female,Registered unemployed,340
+2018,August,10,Sant Martí,70,el Besòs i el Maresme,Female,Registered unemployed,776
+2018,August,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,548
+2018,August,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,751
+2018,August,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,846
+2018,August,99,No consta,99,No consta,Female,Registered unemployed,4
+2018,September,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1723
+2018,September,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,460
+2018,September,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,474
+2018,September,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Male,Registered unemployed,653
+2018,September,2,Eixample,5,el Fort Pienc,Male,Registered unemployed,510
+2018,September,2,Eixample,6,la Sagrada Família,Male,Registered unemployed,815
+2018,September,2,Eixample,7,la Dreta de l'Eixample,Male,Registered unemployed,546
+2018,September,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Male,Registered unemployed,653
+2018,September,2,Eixample,9,la Nova Esquerra de l'Eixample,Male,Registered unemployed,907
+2018,September,2,Eixample,10,Sant Antoni,Male,Registered unemployed,683
+2018,September,3,Sants-Montjuïc,11,el Poble Sec,Male,Registered unemployed,1015
+2018,September,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Male,Registered unemployed,50
+2018,September,3,Sants-Montjuïc,13,la Marina de Port,Male,Registered unemployed,670
+2018,September,3,Sants-Montjuïc,14,la Font de la Guatlla,Male,Registered unemployed,254
+2018,September,3,Sants-Montjuïc,15,Hostafrancs,Male,Registered unemployed,289
+2018,September,3,Sants-Montjuïc,16,la Bordeta,Male,Registered unemployed,339
+2018,September,3,Sants-Montjuïc,17,Sants - Badal,Male,Registered unemployed,366
+2018,September,3,Sants-Montjuïc,18,Sants,Male,Registered unemployed,694
+2018,September,4,Les Corts,19,les Corts,Male,Registered unemployed,707
+2018,September,4,Les Corts,20,la Maternitat i Sant Ramon,Male,Registered unemployed,362
+2018,September,4,Les Corts,21,Pedralbes,Male,Registered unemployed,86
+2018,September,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Male,Registered unemployed,44
+2018,September,5,Sarrià-Sant Gervasi,23,Sarrià,Male,Registered unemployed,201
+2018,September,5,Sarrià-Sant Gervasi,24,les Tres Torres,Male,Registered unemployed,170
+2018,September,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Male,Registered unemployed,231
+2018,September,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Male,Registered unemployed,419
+2018,September,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Male,Registered unemployed,393
+2018,September,6,Gràcia,28,Vallcarca i els Penitents,Male,Registered unemployed,263
+2018,September,6,Gràcia,29,el Coll,Male,Registered unemployed,109
+2018,September,6,Gràcia,30,la Salut,Male,Registered unemployed,218
+2018,September,6,Gràcia,31,la Vila de Gràcia,Male,Registered unemployed,818
+2018,September,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Male,Registered unemployed,533
+2018,September,7,Horta-Guinardó,33,el Baix Guinardó,Male,Registered unemployed,410
+2018,September,7,Horta-Guinardó,34,Can Baró,Male,Registered unemployed,156
+2018,September,7,Horta-Guinardó,35,el Guinardó,Male,Registered unemployed,661
+2018,September,7,Horta-Guinardó,36,la Font d'en Fargues,Male,Registered unemployed,208
+2018,September,7,Horta-Guinardó,37,el Carmel,Male,Registered unemployed,709
+2018,September,7,Horta-Guinardó,38,la Teixonera,Male,Registered unemployed,222
+2018,September,7,Horta-Guinardó,39,Sant Genís dels Agudells,Male,Registered unemployed,136
+2018,September,7,Horta-Guinardó,40,Montbau,Male,Registered unemployed,98
+2018,September,7,Horta-Guinardó,41,la Vall d'Hebron,Male,Registered unemployed,105
+2018,September,7,Horta-Guinardó,42,la Clota,Male,Registered unemployed,7
+2018,September,7,Horta-Guinardó,43,Horta,Male,Registered unemployed,572
+2018,September,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Male,Registered unemployed,518
+2018,September,8,Nou Barris,45,Porta,Male,Registered unemployed,505
+2018,September,8,Nou Barris,46,el Turó de la Peira,Male,Registered unemployed,323
+2018,September,8,Nou Barris,47,Can Peguera,Male,Registered unemployed,45
+2018,September,8,Nou Barris,48,la Guineueta,Male,Registered unemployed,374
+2018,September,8,Nou Barris,49,Canyelles,Male,Registered unemployed,182
+2018,September,8,Nou Barris,50,les Roquetes,Male,Registered unemployed,395
+2018,September,8,Nou Barris,51,Verdun,Male,Registered unemployed,303
+2018,September,8,Nou Barris,52,la Prosperitat,Male,Registered unemployed,568
+2018,September,8,Nou Barris,53,la Trinitat Nova,Male,Registered unemployed,274
+2018,September,8,Nou Barris,54,Torre Baró,Male,Registered unemployed,76
+2018,September,8,Nou Barris,55,Ciutat Meridiana,Male,Registered unemployed,397
+2018,September,8,Nou Barris,56,Vallbona,Male,Registered unemployed,46
+2018,September,9,Sant Andreu,57,la Trinitat Vella,Male,Registered unemployed,368
+2018,September,9,Sant Andreu,58,Baró de Viver,Male,Registered unemployed,46
+2018,September,9,Sant Andreu,59,el Bon Pastor,Male,Registered unemployed,263
+2018,September,9,Sant Andreu,60,Sant Andreu,Male,Registered unemployed,1063
+2018,September,9,Sant Andreu,61,la Sagrera,Male,Registered unemployed,500
+2018,September,9,Sant Andreu,62,el Congrés i els Indians,Male,Registered unemployed,243
+2018,September,9,Sant Andreu,63,Navas,Male,Registered unemployed,376
+2018,September,10,Sant Martí,64,el Camp de l'Arpa del Clot,Male,Registered unemployed,798
+2018,September,10,Sant Martí,65,el Clot,Male,Registered unemployed,532
+2018,September,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Male,Registered unemployed,255
+2018,September,10,Sant Martí,67,la Vila Olímpica del Poblenou,Male,Registered unemployed,170
+2018,September,10,Sant Martí,68,el Poblenou,Male,Registered unemployed,583
+2018,September,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Male,Registered unemployed,264
+2018,September,10,Sant Martí,70,el Besòs i el Maresme,Male,Registered unemployed,604
+2018,September,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,414
+2018,September,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,580
+2018,September,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,657
+2018,September,99,No consta,99,No consta,Male,Registered unemployed,5
+2018,September,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1379
+2018,September,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,394
+2018,September,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,450
+2018,September,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Female,Registered unemployed,625
+2018,September,2,Eixample,5,el Fort Pienc,Female,Registered unemployed,670
+2018,September,2,Eixample,6,la Sagrada Família,Female,Registered unemployed,1073
+2018,September,2,Eixample,7,la Dreta de l'Eixample,Female,Registered unemployed,684
+2018,September,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Female,Registered unemployed,783
+2018,September,2,Eixample,9,la Nova Esquerra de l'Eixample,Female,Registered unemployed,1108
+2018,September,2,Eixample,10,Sant Antoni,Female,Registered unemployed,802
+2018,September,3,Sants-Montjuïc,11,el Poble Sec,Female,Registered unemployed,1071
+2018,September,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Female,Registered unemployed,47
+2018,September,3,Sants-Montjuïc,13,la Marina de Port,Female,Registered unemployed,954
+2018,September,3,Sants-Montjuïc,14,la Font de la Guatlla,Female,Registered unemployed,273
+2018,September,3,Sants-Montjuïc,15,Hostafrancs,Female,Registered unemployed,384
+2018,September,3,Sants-Montjuïc,16,la Bordeta,Female,Registered unemployed,451
+2018,September,3,Sants-Montjuïc,17,Sants - Badal,Female,Registered unemployed,495
+2018,September,3,Sants-Montjuïc,18,Sants,Female,Registered unemployed,927
+2018,September,4,Les Corts,19,les Corts,Female,Registered unemployed,931
+2018,September,4,Les Corts,20,la Maternitat i Sant Ramon,Female,Registered unemployed,489
+2018,September,4,Les Corts,21,Pedralbes,Female,Registered unemployed,130
+2018,September,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Female,Registered unemployed,46
+2018,September,5,Sarrià-Sant Gervasi,23,Sarrià,Female,Registered unemployed,267
+2018,September,5,Sarrià-Sant Gervasi,24,les Tres Torres,Female,Registered unemployed,178
+2018,September,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Female,Registered unemployed,293
+2018,September,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Female,Registered unemployed,580
+2018,September,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Female,Registered unemployed,511
+2018,September,6,Gràcia,28,Vallcarca i els Penitents,Female,Registered unemployed,320
+2018,September,6,Gràcia,29,el Coll,Female,Registered unemployed,133
+2018,September,6,Gràcia,30,la Salut,Female,Registered unemployed,286
+2018,September,6,Gràcia,31,la Vila de Gràcia,Female,Registered unemployed,1072
+2018,September,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Female,Registered unemployed,691
+2018,September,7,Horta-Guinardó,33,el Baix Guinardó,Female,Registered unemployed,540
+2018,September,7,Horta-Guinardó,34,Can Baró,Female,Registered unemployed,206
+2018,September,7,Horta-Guinardó,35,el Guinardó,Female,Registered unemployed,859
+2018,September,7,Horta-Guinardó,36,la Font d'en Fargues,Female,Registered unemployed,257
+2018,September,7,Horta-Guinardó,37,el Carmel,Female,Registered unemployed,878
+2018,September,7,Horta-Guinardó,38,la Teixonera,Female,Registered unemployed,266
+2018,September,7,Horta-Guinardó,39,Sant Genís dels Agudells,Female,Registered unemployed,161
+2018,September,7,Horta-Guinardó,40,Montbau,Female,Registered unemployed,116
+2018,September,7,Horta-Guinardó,41,la Vall d'Hebron,Female,Registered unemployed,124
+2018,September,7,Horta-Guinardó,42,la Clota,Female,Registered unemployed,9
+2018,September,7,Horta-Guinardó,43,Horta,Female,Registered unemployed,747
+2018,September,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Female,Registered unemployed,696
+2018,September,8,Nou Barris,45,Porta,Female,Registered unemployed,668
+2018,September,8,Nou Barris,46,el Turó de la Peira,Female,Registered unemployed,436
+2018,September,8,Nou Barris,47,Can Peguera,Female,Registered unemployed,61
+2018,September,8,Nou Barris,48,la Guineueta,Female,Registered unemployed,503
+2018,September,8,Nou Barris,49,Canyelles,Female,Registered unemployed,246
+2018,September,8,Nou Barris,50,les Roquetes,Female,Registered unemployed,532
+2018,September,8,Nou Barris,51,Verdun,Female,Registered unemployed,408
+2018,September,8,Nou Barris,52,la Prosperitat,Female,Registered unemployed,751
+2018,September,8,Nou Barris,53,la Trinitat Nova,Female,Registered unemployed,326
+2018,September,8,Nou Barris,54,Torre Baró,Female,Registered unemployed,89
+2018,September,8,Nou Barris,55,Ciutat Meridiana,Female,Registered unemployed,466
+2018,September,8,Nou Barris,56,Vallbona,Female,Registered unemployed,54
+2018,September,9,Sant Andreu,57,la Trinitat Vella,Female,Registered unemployed,432
+2018,September,9,Sant Andreu,58,Baró de Viver,Female,Registered unemployed,69
+2018,September,9,Sant Andreu,59,el Bon Pastor,Female,Registered unemployed,393
+2018,September,9,Sant Andreu,60,Sant Andreu,Female,Registered unemployed,1589
+2018,September,9,Sant Andreu,61,la Sagrera,Female,Registered unemployed,690
+2018,September,9,Sant Andreu,62,el Congrés i els Indians,Female,Registered unemployed,336
+2018,September,9,Sant Andreu,63,Navas,Female,Registered unemployed,517
+2018,September,10,Sant Martí,64,el Camp de l'Arpa del Clot,Female,Registered unemployed,937
+2018,September,10,Sant Martí,65,el Clot,Female,Registered unemployed,664
+2018,September,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Female,Registered unemployed,331
+2018,September,10,Sant Martí,67,la Vila Olímpica del Poblenou,Female,Registered unemployed,220
+2018,September,10,Sant Martí,68,el Poblenou,Female,Registered unemployed,757
+2018,September,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Female,Registered unemployed,338
+2018,September,10,Sant Martí,70,el Besòs i el Maresme,Female,Registered unemployed,773
+2018,September,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,536
+2018,September,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,753
+2018,September,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,853
+2018,September,99,No consta,99,No consta,Female,Registered unemployed,5
+2018,October,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1782
+2018,October,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,476
+2018,October,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,477
+2018,October,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Male,Registered unemployed,659
+2018,October,2,Eixample,5,el Fort Pienc,Male,Registered unemployed,505
+2018,October,2,Eixample,6,la Sagrada Família,Male,Registered unemployed,818
+2018,October,2,Eixample,7,la Dreta de l'Eixample,Male,Registered unemployed,547
+2018,October,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Male,Registered unemployed,648
+2018,October,2,Eixample,9,la Nova Esquerra de l'Eixample,Male,Registered unemployed,932
+2018,October,2,Eixample,10,Sant Antoni,Male,Registered unemployed,684
+2018,October,3,Sants-Montjuïc,11,el Poble Sec,Male,Registered unemployed,1037
+2018,October,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Male,Registered unemployed,54
+2018,October,3,Sants-Montjuïc,13,la Marina de Port,Male,Registered unemployed,708
+2018,October,3,Sants-Montjuïc,14,la Font de la Guatlla,Male,Registered unemployed,260
+2018,October,3,Sants-Montjuïc,15,Hostafrancs,Male,Registered unemployed,293
+2018,October,3,Sants-Montjuïc,16,la Bordeta,Male,Registered unemployed,344
+2018,October,3,Sants-Montjuïc,17,Sants - Badal,Male,Registered unemployed,379
+2018,October,3,Sants-Montjuïc,18,Sants,Male,Registered unemployed,712
+2018,October,4,Les Corts,19,les Corts,Male,Registered unemployed,735
+2018,October,4,Les Corts,20,la Maternitat i Sant Ramon,Male,Registered unemployed,375
+2018,October,4,Les Corts,21,Pedralbes,Male,Registered unemployed,90
+2018,October,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Male,Registered unemployed,44
+2018,October,5,Sarrià-Sant Gervasi,23,Sarrià,Male,Registered unemployed,206
+2018,October,5,Sarrià-Sant Gervasi,24,les Tres Torres,Male,Registered unemployed,168
+2018,October,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Male,Registered unemployed,234
+2018,October,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Male,Registered unemployed,443
+2018,October,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Male,Registered unemployed,412
+2018,October,6,Gràcia,28,Vallcarca i els Penitents,Male,Registered unemployed,275
+2018,October,6,Gràcia,29,el Coll,Male,Registered unemployed,115
+2018,October,6,Gràcia,30,la Salut,Male,Registered unemployed,224
+2018,October,6,Gràcia,31,la Vila de Gràcia,Male,Registered unemployed,821
+2018,October,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Male,Registered unemployed,547
+2018,October,7,Horta-Guinardó,33,el Baix Guinardó,Male,Registered unemployed,416
+2018,October,7,Horta-Guinardó,34,Can Baró,Male,Registered unemployed,160
+2018,October,7,Horta-Guinardó,35,el Guinardó,Male,Registered unemployed,688
+2018,October,7,Horta-Guinardó,36,la Font d'en Fargues,Male,Registered unemployed,214
+2018,October,7,Horta-Guinardó,37,el Carmel,Male,Registered unemployed,731
+2018,October,7,Horta-Guinardó,38,la Teixonera,Male,Registered unemployed,227
+2018,October,7,Horta-Guinardó,39,Sant Genís dels Agudells,Male,Registered unemployed,138
+2018,October,7,Horta-Guinardó,40,Montbau,Male,Registered unemployed,100
+2018,October,7,Horta-Guinardó,41,la Vall d'Hebron,Male,Registered unemployed,106
+2018,October,7,Horta-Guinardó,42,la Clota,Male,Registered unemployed,7
+2018,October,7,Horta-Guinardó,43,Horta,Male,Registered unemployed,586
+2018,October,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Male,Registered unemployed,532
+2018,October,8,Nou Barris,45,Porta,Male,Registered unemployed,524
+2018,October,8,Nou Barris,46,el Turó de la Peira,Male,Registered unemployed,330
+2018,October,8,Nou Barris,47,Can Peguera,Male,Registered unemployed,46
+2018,October,8,Nou Barris,48,la Guineueta,Male,Registered unemployed,386
+2018,October,8,Nou Barris,49,Canyelles,Male,Registered unemployed,189
+2018,October,8,Nou Barris,50,les Roquetes,Male,Registered unemployed,409
+2018,October,8,Nou Barris,51,Verdun,Male,Registered unemployed,313
+2018,October,8,Nou Barris,52,la Prosperitat,Male,Registered unemployed,589
+2018,October,8,Nou Barris,53,la Trinitat Nova,Male,Registered unemployed,272
+2018,October,8,Nou Barris,54,Torre Baró,Male,Registered unemployed,75
+2018,October,8,Nou Barris,55,Ciutat Meridiana,Male,Registered unemployed,392
+2018,October,8,Nou Barris,56,Vallbona,Male,Registered unemployed,45
+2018,October,9,Sant Andreu,57,la Trinitat Vella,Male,Registered unemployed,363
+2018,October,9,Sant Andreu,58,Baró de Viver,Male,Registered unemployed,47
+2018,October,9,Sant Andreu,59,el Bon Pastor,Male,Registered unemployed,266
+2018,October,9,Sant Andreu,60,Sant Andreu,Male,Registered unemployed,1079
+2018,October,9,Sant Andreu,61,la Sagrera,Male,Registered unemployed,518
+2018,October,9,Sant Andreu,62,el Congrés i els Indians,Male,Registered unemployed,252
+2018,October,9,Sant Andreu,63,Navas,Male,Registered unemployed,390
+2018,October,10,Sant Martí,64,el Camp de l'Arpa del Clot,Male,Registered unemployed,814
+2018,October,10,Sant Martí,65,el Clot,Male,Registered unemployed,551
+2018,October,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Male,Registered unemployed,264
+2018,October,10,Sant Martí,67,la Vila Olímpica del Poblenou,Male,Registered unemployed,168
+2018,October,10,Sant Martí,68,el Poblenou,Male,Registered unemployed,581
+2018,October,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Male,Registered unemployed,273
+2018,October,10,Sant Martí,70,el Besòs i el Maresme,Male,Registered unemployed,626
+2018,October,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,428
+2018,October,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,595
+2018,October,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,673
+2018,October,99,No consta,99,No consta,Male,Registered unemployed,6
+2018,October,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1421
+2018,October,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,429
+2018,October,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,461
+2018,October,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Female,Registered unemployed,639
+2018,October,2,Eixample,5,el Fort Pienc,Female,Registered unemployed,679
+2018,October,2,Eixample,6,la Sagrada Família,Female,Registered unemployed,1093
+2018,October,2,Eixample,7,la Dreta de l'Eixample,Female,Registered unemployed,694
+2018,October,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Female,Registered unemployed,773
+2018,October,2,Eixample,9,la Nova Esquerra de l'Eixample,Female,Registered unemployed,1103
+2018,October,2,Eixample,10,Sant Antoni,Female,Registered unemployed,799
+2018,October,3,Sants-Montjuïc,11,el Poble Sec,Female,Registered unemployed,1067
+2018,October,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Female,Registered unemployed,50
+2018,October,3,Sants-Montjuïc,13,la Marina de Port,Female,Registered unemployed,976
+2018,October,3,Sants-Montjuïc,14,la Font de la Guatlla,Female,Registered unemployed,273
+2018,October,3,Sants-Montjuïc,15,Hostafrancs,Female,Registered unemployed,385
+2018,October,3,Sants-Montjuïc,16,la Bordeta,Female,Registered unemployed,452
+2018,October,3,Sants-Montjuïc,17,Sants - Badal,Female,Registered unemployed,502
+2018,October,3,Sants-Montjuïc,18,Sants,Female,Registered unemployed,933
+2018,October,4,Les Corts,19,les Corts,Female,Registered unemployed,933
+2018,October,4,Les Corts,20,la Maternitat i Sant Ramon,Female,Registered unemployed,497
+2018,October,4,Les Corts,21,Pedralbes,Female,Registered unemployed,127
+2018,October,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Female,Registered unemployed,48
+2018,October,5,Sarrià-Sant Gervasi,23,Sarrià,Female,Registered unemployed,266
+2018,October,5,Sarrià-Sant Gervasi,24,les Tres Torres,Female,Registered unemployed,184
+2018,October,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Female,Registered unemployed,290
+2018,October,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Female,Registered unemployed,585
+2018,October,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Female,Registered unemployed,513
+2018,October,6,Gràcia,28,Vallcarca i els Penitents,Female,Registered unemployed,322
+2018,October,6,Gràcia,29,el Coll,Female,Registered unemployed,134
+2018,October,6,Gràcia,30,la Salut,Female,Registered unemployed,288
+2018,October,6,Gràcia,31,la Vila de Gràcia,Female,Registered unemployed,1080
+2018,October,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Female,Registered unemployed,705
+2018,October,7,Horta-Guinardó,33,el Baix Guinardó,Female,Registered unemployed,549
+2018,October,7,Horta-Guinardó,34,Can Baró,Female,Registered unemployed,208
+2018,October,7,Horta-Guinardó,35,el Guinardó,Female,Registered unemployed,863
+2018,October,7,Horta-Guinardó,36,la Font d'en Fargues,Female,Registered unemployed,262
+2018,October,7,Horta-Guinardó,37,el Carmel,Female,Registered unemployed,894
+2018,October,7,Horta-Guinardó,38,la Teixonera,Female,Registered unemployed,269
+2018,October,7,Horta-Guinardó,39,Sant Genís dels Agudells,Female,Registered unemployed,162
+2018,October,7,Horta-Guinardó,40,Montbau,Female,Registered unemployed,117
+2018,October,7,Horta-Guinardó,41,la Vall d'Hebron,Female,Registered unemployed,125
+2018,October,7,Horta-Guinardó,42,la Clota,Female,Registered unemployed,9
+2018,October,7,Horta-Guinardó,43,Horta,Female,Registered unemployed,764
+2018,October,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Female,Registered unemployed,708
+2018,October,8,Nou Barris,45,Porta,Female,Registered unemployed,671
+2018,October,8,Nou Barris,46,el Turó de la Peira,Female,Registered unemployed,448
+2018,October,8,Nou Barris,47,Can Peguera,Female,Registered unemployed,63
+2018,October,8,Nou Barris,48,la Guineueta,Female,Registered unemployed,519
+2018,October,8,Nou Barris,49,Canyelles,Female,Registered unemployed,253
+2018,October,8,Nou Barris,50,les Roquetes,Female,Registered unemployed,550
+2018,October,8,Nou Barris,51,Verdun,Female,Registered unemployed,421
+2018,October,8,Nou Barris,52,la Prosperitat,Female,Registered unemployed,754
+2018,October,8,Nou Barris,53,la Trinitat Nova,Female,Registered unemployed,336
+2018,October,8,Nou Barris,54,Torre Baró,Female,Registered unemployed,92
+2018,October,8,Nou Barris,55,Ciutat Meridiana,Female,Registered unemployed,481
+2018,October,8,Nou Barris,56,Vallbona,Female,Registered unemployed,56
+2018,October,9,Sant Andreu,57,la Trinitat Vella,Female,Registered unemployed,446
+2018,October,9,Sant Andreu,58,Baró de Viver,Female,Registered unemployed,69
+2018,October,9,Sant Andreu,59,el Bon Pastor,Female,Registered unemployed,393
+2018,October,9,Sant Andreu,60,Sant Andreu,Female,Registered unemployed,1590
+2018,October,9,Sant Andreu,61,la Sagrera,Female,Registered unemployed,694
+2018,October,9,Sant Andreu,62,el Congrés i els Indians,Female,Registered unemployed,338
+2018,October,9,Sant Andreu,63,Navas,Female,Registered unemployed,519
+2018,October,10,Sant Martí,64,el Camp de l'Arpa del Clot,Female,Registered unemployed,936
+2018,October,10,Sant Martí,65,el Clot,Female,Registered unemployed,665
+2018,October,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Female,Registered unemployed,330
+2018,October,10,Sant Martí,67,la Vila Olímpica del Poblenou,Female,Registered unemployed,212
+2018,October,10,Sant Martí,68,el Poblenou,Female,Registered unemployed,734
+2018,October,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Female,Registered unemployed,334
+2018,October,10,Sant Martí,70,el Besòs i el Maresme,Female,Registered unemployed,767
+2018,October,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,534
+2018,October,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,749
+2018,October,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,847
+2018,October,99,No consta,99,No consta,Female,Registered unemployed,6
+2018,November,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1856
+2018,November,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,469
+2018,November,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,493
+2018,November,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Male,Registered unemployed,683
+2018,November,2,Eixample,5,el Fort Pienc,Male,Registered unemployed,502
+2018,November,2,Eixample,6,la Sagrada Família,Male,Registered unemployed,805
+2018,November,2,Eixample,7,la Dreta de l'Eixample,Male,Registered unemployed,534
+2018,November,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Male,Registered unemployed,647
+2018,November,2,Eixample,9,la Nova Esquerra de l'Eixample,Male,Registered unemployed,942
+2018,November,2,Eixample,10,Sant Antoni,Male,Registered unemployed,689
+2018,November,3,Sants-Montjuïc,11,el Poble Sec,Male,Registered unemployed,1046
+2018,November,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Male,Registered unemployed,50
+2018,November,3,Sants-Montjuïc,13,la Marina de Port,Male,Registered unemployed,722
+2018,November,3,Sants-Montjuïc,14,la Font de la Guatlla,Male,Registered unemployed,262
+2018,November,3,Sants-Montjuïc,15,Hostafrancs,Male,Registered unemployed,304
+2018,November,3,Sants-Montjuïc,16,la Bordeta,Male,Registered unemployed,357
+2018,November,3,Sants-Montjuïc,17,Sants - Badal,Male,Registered unemployed,382
+2018,November,3,Sants-Montjuïc,18,Sants,Male,Registered unemployed,729
+2018,November,4,Les Corts,19,les Corts,Male,Registered unemployed,747
+2018,November,4,Les Corts,20,la Maternitat i Sant Ramon,Male,Registered unemployed,377
+2018,November,4,Les Corts,21,Pedralbes,Male,Registered unemployed,89
+2018,November,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Male,Registered unemployed,45
+2018,November,5,Sarrià-Sant Gervasi,23,Sarrià,Male,Registered unemployed,206
+2018,November,5,Sarrià-Sant Gervasi,24,les Tres Torres,Male,Registered unemployed,172
+2018,November,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Male,Registered unemployed,234
+2018,November,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Male,Registered unemployed,461
+2018,November,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Male,Registered unemployed,406
+2018,November,6,Gràcia,28,Vallcarca i els Penitents,Male,Registered unemployed,268
+2018,November,6,Gràcia,29,el Coll,Male,Registered unemployed,111
+2018,November,6,Gràcia,30,la Salut,Male,Registered unemployed,227
+2018,November,6,Gràcia,31,la Vila de Gràcia,Male,Registered unemployed,843
+2018,November,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Male,Registered unemployed,546
+2018,November,7,Horta-Guinardó,33,el Baix Guinardó,Male,Registered unemployed,412
+2018,November,7,Horta-Guinardó,34,Can Baró,Male,Registered unemployed,163
+2018,November,7,Horta-Guinardó,35,el Guinardó,Male,Registered unemployed,691
+2018,November,7,Horta-Guinardó,36,la Font d'en Fargues,Male,Registered unemployed,206
+2018,November,7,Horta-Guinardó,37,el Carmel,Male,Registered unemployed,703
+2018,November,7,Horta-Guinardó,38,la Teixonera,Male,Registered unemployed,226
+2018,November,7,Horta-Guinardó,39,Sant Genís dels Agudells,Male,Registered unemployed,139
+2018,November,7,Horta-Guinardó,40,Montbau,Male,Registered unemployed,100
+2018,November,7,Horta-Guinardó,41,la Vall d'Hebron,Male,Registered unemployed,107
+2018,November,7,Horta-Guinardó,42,la Clota,Male,Registered unemployed,7
+2018,November,7,Horta-Guinardó,43,Horta,Male,Registered unemployed,586
+2018,November,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Male,Registered unemployed,541
+2018,November,8,Nou Barris,45,Porta,Male,Registered unemployed,527
+2018,November,8,Nou Barris,46,el Turó de la Peira,Male,Registered unemployed,338
+2018,November,8,Nou Barris,47,Can Peguera,Male,Registered unemployed,47
+2018,November,8,Nou Barris,48,la Guineueta,Male,Registered unemployed,386
+2018,November,8,Nou Barris,49,Canyelles,Male,Registered unemployed,189
+2018,November,8,Nou Barris,50,les Roquetes,Male,Registered unemployed,409
+2018,November,8,Nou Barris,51,Verdun,Male,Registered unemployed,313
+2018,November,8,Nou Barris,52,la Prosperitat,Male,Registered unemployed,592
+2018,November,8,Nou Barris,53,la Trinitat Nova,Male,Registered unemployed,279
+2018,November,8,Nou Barris,54,Torre Baró,Male,Registered unemployed,77
+2018,November,8,Nou Barris,55,Ciutat Meridiana,Male,Registered unemployed,404
+2018,November,8,Nou Barris,56,Vallbona,Male,Registered unemployed,47
+2018,November,9,Sant Andreu,57,la Trinitat Vella,Male,Registered unemployed,374
+2018,November,9,Sant Andreu,58,Baró de Viver,Male,Registered unemployed,46
+2018,November,9,Sant Andreu,59,el Bon Pastor,Male,Registered unemployed,263
+2018,November,9,Sant Andreu,60,Sant Andreu,Male,Registered unemployed,1064
+2018,November,9,Sant Andreu,61,la Sagrera,Male,Registered unemployed,523
+2018,November,9,Sant Andreu,62,el Congrés i els Indians,Male,Registered unemployed,254
+2018,November,9,Sant Andreu,63,Navas,Male,Registered unemployed,394
+2018,November,10,Sant Martí,64,el Camp de l'Arpa del Clot,Male,Registered unemployed,820
+2018,November,10,Sant Martí,65,el Clot,Male,Registered unemployed,549
+2018,November,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Male,Registered unemployed,262
+2018,November,10,Sant Martí,67,la Vila Olímpica del Poblenou,Male,Registered unemployed,168
+2018,November,10,Sant Martí,68,el Poblenou,Male,Registered unemployed,580
+2018,November,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Male,Registered unemployed,280
+2018,November,10,Sant Martí,70,el Besòs i el Maresme,Male,Registered unemployed,640
+2018,November,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,422
+2018,November,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,579
+2018,November,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,654
+2018,November,99,No consta,99,No consta,Male,Registered unemployed,7
+2018,November,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1438
+2018,November,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,427
+2018,November,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,473
+2018,November,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Female,Registered unemployed,653
+2018,November,2,Eixample,5,el Fort Pienc,Female,Registered unemployed,665
+2018,November,2,Eixample,6,la Sagrada Família,Female,Registered unemployed,1071
+2018,November,2,Eixample,7,la Dreta de l'Eixample,Female,Registered unemployed,683
+2018,November,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Female,Registered unemployed,782
+2018,November,2,Eixample,9,la Nova Esquerra de l'Eixample,Female,Registered unemployed,1106
+2018,November,2,Eixample,10,Sant Antoni,Female,Registered unemployed,799
+2018,November,3,Sants-Montjuïc,11,el Poble Sec,Female,Registered unemployed,1067
+2018,November,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Female,Registered unemployed,49
+2018,November,3,Sants-Montjuïc,13,la Marina de Port,Female,Registered unemployed,956
+2018,November,3,Sants-Montjuïc,14,la Font de la Guatlla,Female,Registered unemployed,272
+2018,November,3,Sants-Montjuïc,15,Hostafrancs,Female,Registered unemployed,386
+2018,November,3,Sants-Montjuïc,16,la Bordeta,Female,Registered unemployed,452
+2018,November,3,Sants-Montjuïc,17,Sants - Badal,Female,Registered unemployed,507
+2018,November,3,Sants-Montjuïc,18,Sants,Female,Registered unemployed,937
+2018,November,4,Les Corts,19,les Corts,Female,Registered unemployed,934
+2018,November,4,Les Corts,20,la Maternitat i Sant Ramon,Female,Registered unemployed,501
+2018,November,4,Les Corts,21,Pedralbes,Female,Registered unemployed,132
+2018,November,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Female,Registered unemployed,48
+2018,November,5,Sarrià-Sant Gervasi,23,Sarrià,Female,Registered unemployed,273
+2018,November,5,Sarrià-Sant Gervasi,24,les Tres Torres,Female,Registered unemployed,187
+2018,November,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Female,Registered unemployed,304
+2018,November,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Female,Registered unemployed,605
+2018,November,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Female,Registered unemployed,514
+2018,November,6,Gràcia,28,Vallcarca i els Penitents,Female,Registered unemployed,321
+2018,November,6,Gràcia,29,el Coll,Female,Registered unemployed,134
+2018,November,6,Gràcia,30,la Salut,Female,Registered unemployed,282
+2018,November,6,Gràcia,31,la Vila de Gràcia,Female,Registered unemployed,1082
+2018,November,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Female,Registered unemployed,691
+2018,November,7,Horta-Guinardó,33,el Baix Guinardó,Female,Registered unemployed,537
+2018,November,7,Horta-Guinardó,34,Can Baró,Female,Registered unemployed,203
+2018,November,7,Horta-Guinardó,35,el Guinardó,Female,Registered unemployed,837
+2018,November,7,Horta-Guinardó,36,la Font d'en Fargues,Female,Registered unemployed,263
+2018,November,7,Horta-Guinardó,37,el Carmel,Female,Registered unemployed,896
+2018,November,7,Horta-Guinardó,38,la Teixonera,Female,Registered unemployed,267
+2018,November,7,Horta-Guinardó,39,Sant Genís dels Agudells,Female,Registered unemployed,160
+2018,November,7,Horta-Guinardó,40,Montbau,Female,Registered unemployed,116
+2018,November,7,Horta-Guinardó,41,la Vall d'Hebron,Female,Registered unemployed,124
+2018,November,7,Horta-Guinardó,42,la Clota,Female,Registered unemployed,9
+2018,November,7,Horta-Guinardó,43,Horta,Female,Registered unemployed,766
+2018,November,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Female,Registered unemployed,709
+2018,November,8,Nou Barris,45,Porta,Female,Registered unemployed,672
+2018,November,8,Nou Barris,46,el Turó de la Peira,Female,Registered unemployed,449
+2018,November,8,Nou Barris,47,Can Peguera,Female,Registered unemployed,63
+2018,November,8,Nou Barris,48,la Guineueta,Female,Registered unemployed,508
+2018,November,8,Nou Barris,49,Canyelles,Female,Registered unemployed,248
+2018,November,8,Nou Barris,50,les Roquetes,Female,Registered unemployed,538
+2018,November,8,Nou Barris,51,Verdun,Female,Registered unemployed,412
+2018,November,8,Nou Barris,52,la Prosperitat,Female,Registered unemployed,754
+2018,November,8,Nou Barris,53,la Trinitat Nova,Female,Registered unemployed,338
+2018,November,8,Nou Barris,54,Torre Baró,Female,Registered unemployed,93
+2018,November,8,Nou Barris,55,Ciutat Meridiana,Female,Registered unemployed,485
+2018,November,8,Nou Barris,56,Vallbona,Female,Registered unemployed,56
+2018,November,9,Sant Andreu,57,la Trinitat Vella,Female,Registered unemployed,450
+2018,November,9,Sant Andreu,58,Baró de Viver,Female,Registered unemployed,67
+2018,November,9,Sant Andreu,59,el Bon Pastor,Female,Registered unemployed,382
+2018,November,9,Sant Andreu,60,Sant Andreu,Female,Registered unemployed,1545
+2018,November,9,Sant Andreu,61,la Sagrera,Female,Registered unemployed,688
+2018,November,9,Sant Andreu,62,el Congrés i els Indians,Female,Registered unemployed,335
+2018,November,9,Sant Andreu,63,Navas,Female,Registered unemployed,513
+2018,November,10,Sant Martí,64,el Camp de l'Arpa del Clot,Female,Registered unemployed,894
+2018,November,10,Sant Martí,65,el Clot,Female,Registered unemployed,644
+2018,November,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Female,Registered unemployed,323
+2018,November,10,Sant Martí,67,la Vila Olímpica del Poblenou,Female,Registered unemployed,215
+2018,November,10,Sant Martí,68,el Poblenou,Female,Registered unemployed,738
+2018,November,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Female,Registered unemployed,334
+2018,November,10,Sant Martí,70,el Besòs i el Maresme,Female,Registered unemployed,763
+2018,November,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,523
+2018,November,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,731
+2018,November,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,827
+2018,November,99,No consta,99,No consta,Female,Registered unemployed,7
+2018,December,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1892
+2018,December,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,464
+2018,December,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,490
+2018,December,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Male,Registered unemployed,677
+2018,December,2,Eixample,5,el Fort Pienc,Male,Registered unemployed,520
+2018,December,2,Eixample,6,la Sagrada Família,Male,Registered unemployed,818
+2018,December,2,Eixample,7,la Dreta de l'Eixample,Male,Registered unemployed,548
+2018,December,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Male,Registered unemployed,668
+2018,December,2,Eixample,9,la Nova Esquerra de l'Eixample,Male,Registered unemployed,955
+2018,December,2,Eixample,10,Sant Antoni,Male,Registered unemployed,726
+2018,December,3,Sants-Montjuïc,11,el Poble Sec,Male,Registered unemployed,1052
+2018,December,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Male,Registered unemployed,48
+2018,December,3,Sants-Montjuïc,13,la Marina de Port,Male,Registered unemployed,723
+2018,December,3,Sants-Montjuïc,14,la Font de la Guatlla,Male,Registered unemployed,264
+2018,December,3,Sants-Montjuïc,15,Hostafrancs,Male,Registered unemployed,302
+2018,December,3,Sants-Montjuïc,16,la Bordeta,Male,Registered unemployed,355
+2018,December,3,Sants-Montjuïc,17,Sants - Badal,Male,Registered unemployed,378
+2018,December,3,Sants-Montjuïc,18,Sants,Male,Registered unemployed,722
+2018,December,4,Les Corts,19,les Corts,Male,Registered unemployed,733
+2018,December,4,Les Corts,20,la Maternitat i Sant Ramon,Male,Registered unemployed,374
+2018,December,4,Les Corts,21,Pedralbes,Male,Registered unemployed,87
+2018,December,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Male,Registered unemployed,44
+2018,December,5,Sarrià-Sant Gervasi,23,Sarrià,Male,Registered unemployed,202
+2018,December,5,Sarrià-Sant Gervasi,24,les Tres Torres,Male,Registered unemployed,168
+2018,December,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Male,Registered unemployed,239
+2018,December,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Male,Registered unemployed,466
+2018,December,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Male,Registered unemployed,414
+2018,December,6,Gràcia,28,Vallcarca i els Penitents,Male,Registered unemployed,266
+2018,December,6,Gràcia,29,el Coll,Male,Registered unemployed,110
+2018,December,6,Gràcia,30,la Salut,Male,Registered unemployed,230
+2018,December,6,Gràcia,31,la Vila de Gràcia,Male,Registered unemployed,846
+2018,December,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Male,Registered unemployed,548
+2018,December,7,Horta-Guinardó,33,el Baix Guinardó,Male,Registered unemployed,414
+2018,December,7,Horta-Guinardó,34,Can Baró,Male,Registered unemployed,165
+2018,December,7,Horta-Guinardó,35,el Guinardó,Male,Registered unemployed,690
+2018,December,7,Horta-Guinardó,36,la Font d'en Fargues,Male,Registered unemployed,206
+2018,December,7,Horta-Guinardó,37,el Carmel,Male,Registered unemployed,704
+2018,December,7,Horta-Guinardó,38,la Teixonera,Male,Registered unemployed,228
+2018,December,7,Horta-Guinardó,39,Sant Genís dels Agudells,Male,Registered unemployed,140
+2018,December,7,Horta-Guinardó,40,Montbau,Male,Registered unemployed,101
+2018,December,7,Horta-Guinardó,41,la Vall d'Hebron,Male,Registered unemployed,108
+2018,December,7,Horta-Guinardó,42,la Clota,Male,Registered unemployed,8
+2018,December,7,Horta-Guinardó,43,Horta,Male,Registered unemployed,589
+2018,December,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Male,Registered unemployed,551
+2018,December,8,Nou Barris,45,Porta,Male,Registered unemployed,544
+2018,December,8,Nou Barris,46,el Turó de la Peira,Male,Registered unemployed,341
+2018,December,8,Nou Barris,47,Can Peguera,Male,Registered unemployed,47
+2018,December,8,Nou Barris,48,la Guineueta,Male,Registered unemployed,383
+2018,December,8,Nou Barris,49,Canyelles,Male,Registered unemployed,187
+2018,December,8,Nou Barris,50,les Roquetes,Male,Registered unemployed,406
+2018,December,8,Nou Barris,51,Verdun,Male,Registered unemployed,311
+2018,December,8,Nou Barris,52,la Prosperitat,Male,Registered unemployed,611
+2018,December,8,Nou Barris,53,la Trinitat Nova,Male,Registered unemployed,278
+2018,December,8,Nou Barris,54,Torre Baró,Male,Registered unemployed,77
+2018,December,8,Nou Barris,55,Ciutat Meridiana,Male,Registered unemployed,402
+2018,December,8,Nou Barris,56,Vallbona,Male,Registered unemployed,47
+2018,December,9,Sant Andreu,57,la Trinitat Vella,Male,Registered unemployed,372
+2018,December,9,Sant Andreu,58,Baró de Viver,Male,Registered unemployed,46
+2018,December,9,Sant Andreu,59,el Bon Pastor,Male,Registered unemployed,259
+2018,December,9,Sant Andreu,60,Sant Andreu,Male,Registered unemployed,1050
+2018,December,9,Sant Andreu,61,la Sagrera,Male,Registered unemployed,529
+2018,December,9,Sant Andreu,62,el Congrés i els Indians,Male,Registered unemployed,257
+2018,December,9,Sant Andreu,63,Navas,Male,Registered unemployed,398
+2018,December,10,Sant Martí,64,el Camp de l'Arpa del Clot,Male,Registered unemployed,824
+2018,December,10,Sant Martí,65,el Clot,Male,Registered unemployed,545
+2018,December,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Male,Registered unemployed,256
+2018,December,10,Sant Martí,67,la Vila Olímpica del Poblenou,Male,Registered unemployed,162
+2018,December,10,Sant Martí,68,el Poblenou,Male,Registered unemployed,563
+2018,December,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Male,Registered unemployed,277
+2018,December,10,Sant Martí,70,el Besòs i el Maresme,Male,Registered unemployed,637
+2018,December,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,424
+2018,December,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,592
+2018,December,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,670
+2018,December,99,No consta,99,No consta,Male,Registered unemployed,7
+2018,December,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1418
+2018,December,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,405
+2018,December,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,486
+2018,December,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Female,Registered unemployed,669
+2018,December,2,Eixample,5,el Fort Pienc,Female,Registered unemployed,639
+2018,December,2,Eixample,6,la Sagrada Família,Female,Registered unemployed,1049
+2018,December,2,Eixample,7,la Dreta de l'Eixample,Female,Registered unemployed,669
+2018,December,2,Eixample,8,l'Antiga Esquerra de l'Eixample,Female,Registered unemployed,769
+2018,December,2,Eixample,9,la Nova Esquerra de l'Eixample,Female,Registered unemployed,1101
+2018,December,2,Eixample,10,Sant Antoni,Female,Registered unemployed,788
+2018,December,3,Sants-Montjuïc,11,el Poble Sec,Female,Registered unemployed,1050
+2018,December,3,Sants-Montjuïc,12,la Marina del Prat Vermell,Female,Registered unemployed,48
+2018,December,3,Sants-Montjuïc,13,la Marina de Port,Female,Registered unemployed,922
+2018,December,3,Sants-Montjuïc,14,la Font de la Guatlla,Female,Registered unemployed,268
+2018,December,3,Sants-Montjuïc,15,Hostafrancs,Female,Registered unemployed,372
+2018,December,3,Sants-Montjuïc,16,la Bordeta,Female,Registered unemployed,437
+2018,December,3,Sants-Montjuïc,17,Sants - Badal,Female,Registered unemployed,501
+2018,December,3,Sants-Montjuïc,18,Sants,Female,Registered unemployed,915
+2018,December,4,Les Corts,19,les Corts,Female,Registered unemployed,924
+2018,December,4,Les Corts,20,la Maternitat i Sant Ramon,Female,Registered unemployed,495
+2018,December,4,Les Corts,21,Pedralbes,Female,Registered unemployed,130
+2018,December,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",Female,Registered unemployed,49
+2018,December,5,Sarrià-Sant Gervasi,23,Sarrià,Female,Registered unemployed,272
+2018,December,5,Sarrià-Sant Gervasi,24,les Tres Torres,Female,Registered unemployed,191
+2018,December,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,Female,Registered unemployed,308
+2018,December,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,Female,Registered unemployed,599
+2018,December,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,Female,Registered unemployed,497
+2018,December,6,Gràcia,28,Vallcarca i els Penitents,Female,Registered unemployed,310
+2018,December,6,Gràcia,29,el Coll,Female,Registered unemployed,129
+2018,December,6,Gràcia,30,la Salut,Female,Registered unemployed,274
+2018,December,6,Gràcia,31,la Vila de Gràcia,Female,Registered unemployed,1077
+2018,December,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,Female,Registered unemployed,679
+2018,December,7,Horta-Guinardó,33,el Baix Guinardó,Female,Registered unemployed,531
+2018,December,7,Horta-Guinardó,34,Can Baró,Female,Registered unemployed,198
+2018,December,7,Horta-Guinardó,35,el Guinardó,Female,Registered unemployed,819
+2018,December,7,Horta-Guinardó,36,la Font d'en Fargues,Female,Registered unemployed,259
+2018,December,7,Horta-Guinardó,37,el Carmel,Female,Registered unemployed,884
+2018,December,7,Horta-Guinardó,38,la Teixonera,Female,Registered unemployed,265
+2018,December,7,Horta-Guinardó,39,Sant Genís dels Agudells,Female,Registered unemployed,159
+2018,December,7,Horta-Guinardó,40,Montbau,Female,Registered unemployed,115
+2018,December,7,Horta-Guinardó,41,la Vall d'Hebron,Female,Registered unemployed,123
+2018,December,7,Horta-Guinardó,42,la Clota,Female,Registered unemployed,9
+2018,December,7,Horta-Guinardó,43,Horta,Female,Registered unemployed,749
+2018,December,8,Nou Barris,44,Vilapicina i la Torre Llobeta,Female,Registered unemployed,689
+2018,December,8,Nou Barris,45,Porta,Female,Registered unemployed,653
+2018,December,8,Nou Barris,46,el Turó de la Peira,Female,Registered unemployed,437
+2018,December,8,Nou Barris,47,Can Peguera,Female,Registered unemployed,61
+2018,December,8,Nou Barris,48,la Guineueta,Female,Registered unemployed,500
+2018,December,8,Nou Barris,49,Canyelles,Female,Registered unemployed,244
+2018,December,8,Nou Barris,50,les Roquetes,Female,Registered unemployed,529
+2018,December,8,Nou Barris,51,Verdun,Female,Registered unemployed,405
+2018,December,8,Nou Barris,52,la Prosperitat,Female,Registered unemployed,733
+2018,December,8,Nou Barris,53,la Trinitat Nova,Female,Registered unemployed,335
+2018,December,8,Nou Barris,54,Torre Baró,Female,Registered unemployed,92
+2018,December,8,Nou Barris,55,Ciutat Meridiana,Female,Registered unemployed,480
+2018,December,8,Nou Barris,56,Vallbona,Female,Registered unemployed,56
+2018,December,9,Sant Andreu,57,la Trinitat Vella,Female,Registered unemployed,445
+2018,December,9,Sant Andreu,58,Baró de Viver,Female,Registered unemployed,66
+2018,December,9,Sant Andreu,59,el Bon Pastor,Female,Registered unemployed,374
+2018,December,9,Sant Andreu,60,Sant Andreu,Female,Registered unemployed,1516
+2018,December,9,Sant Andreu,61,la Sagrera,Female,Registered unemployed,669
+2018,December,9,Sant Andreu,62,el Congrés i els Indians,Female,Registered unemployed,326
+2018,December,9,Sant Andreu,63,Navas,Female,Registered unemployed,499
+2018,December,10,Sant Martí,64,el Camp de l'Arpa del Clot,Female,Registered unemployed,914
+2018,December,10,Sant Martí,65,el Clot,Female,Registered unemployed,647
+2018,December,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,Female,Registered unemployed,321
+2018,December,10,Sant Martí,67,la Vila Olímpica del Poblenou,Female,Registered unemployed,213
+2018,December,10,Sant Martí,68,el Poblenou,Female,Registered unemployed,732
+2018,December,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,Female,Registered unemployed,323
+2018,December,10,Sant Martí,70,el Besòs i el Maresme,Female,Registered unemployed,739
+2018,December,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,512
+2018,December,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,711
+2018,December,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,804
+2018,December,99,No consta,99,No consta,Female,Registered unemployed,5
 2017,January,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2107
 2017,January,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,538
 2017,January,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,537
