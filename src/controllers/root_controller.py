@@ -64,7 +64,7 @@ def pop_neighborhood(name):
 def unem_year(year):
     q = {"Year":f"{year}"}
     data = list(mongo_read("bdmlpt0521midproject","unemployed", query=q))
-    val = sum([int(x["Number"]) for x in data])
+    val = sum([int(x["Total"]) for x in data])
     return {"Description":"Total registered unemployeds in BCN",
             "Year":f"{year}",
             "Total": f"{val}"}

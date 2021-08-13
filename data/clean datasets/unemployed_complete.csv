@@ -1,4 +1,4 @@
-Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gender,Demand_occupation,Number
+Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gender,Demand_occupation,Total
 2021,January,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,2139
 2021,January,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,673
 2021,January,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,722
@@ -72,7 +72,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2021,January,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,670
 2021,January,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,916
 2021,January,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1035
-2021,January,99,No consta,99,No consta,Female,Registered unemployed,70
 2021,January,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,3040
 2021,January,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,766
 2021,January,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,722
@@ -146,7 +145,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2021,January,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,581
 2021,January,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,779
 2021,January,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,880
-2021,January,99,No consta,99,No consta,Male,Registered unemployed,57
 2021,February,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,2193
 2021,February,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,690
 2021,February,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,735
@@ -220,7 +218,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2021,February,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,680
 2021,February,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,931
 2021,February,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1052
-2021,February,99,No consta,99,No consta,Female,Registered unemployed,74
 2021,February,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,3102
 2021,February,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,767
 2021,February,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,733
@@ -294,7 +291,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2021,February,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,589
 2021,February,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,789
 2021,February,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,892
-2021,February,99,No consta,99,No consta,Male,Registered unemployed,59
 2021,March,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,2180
 2021,March,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,668
 2021,March,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,731
@@ -368,7 +364,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2021,March,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,676
 2021,March,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,927
 2021,March,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1049
-2021,March,99,No consta,99,No consta,Female,Registered unemployed,71
 2021,March,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,3104
 2021,March,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,757
 2021,March,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,728
@@ -442,7 +437,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2021,March,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,581
 2021,March,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,772
 2021,March,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,871
-2021,March,99,No consta,99,No consta,Male,Registered unemployed,66
 2021,April,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,2162
 2021,April,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,660
 2021,April,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,718
@@ -516,7 +510,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2021,April,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,662
 2021,April,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,903
 2021,April,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1021
-2021,April,99,No consta,99,No consta,Female,Registered unemployed,70
 2021,April,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,3050
 2021,April,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,751
 2021,April,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,720
@@ -590,7 +583,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2021,April,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,578
 2021,April,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,760
 2021,April,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,856
-2021,April,99,No consta,99,No consta,Male,Registered unemployed,58
 2021,May,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,2117
 2021,May,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,650
 2021,May,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,710
@@ -664,7 +656,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2021,May,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,655
 2021,May,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,895
 2021,May,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1012
-2021,May,99,No consta,99,No consta,Female,Registered unemployed,68
 2021,May,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2959
 2021,May,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,730
 2021,May,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,706
@@ -738,7 +729,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2021,May,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,563
 2021,May,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,742
 2021,May,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,836
-2021,May,99,No consta,99,No consta,Male,Registered unemployed,53
 2021,June,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1942
 2021,June,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,579
 2021,June,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,651
@@ -812,7 +802,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2021,June,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,619
 2021,June,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,846
 2021,June,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,957
-2021,June,99,No consta,99,No consta,Female,Registered unemployed,63
 2021,June,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2599
 2021,June,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,657
 2021,June,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,612
@@ -886,7 +875,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2021,June,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,508
 2021,June,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,678
 2021,June,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,764
-2021,June,99,No consta,99,No consta,Male,Registered unemployed,53
 2020,January,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1724
 2020,January,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,491
 2020,January,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,489
@@ -960,7 +948,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2020,January,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,430
 2020,January,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,587
 2020,January,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,664
-2020,January,99,No consta,99,No consta,Male,Registered unemployed,9
 2020,January,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1342
 2020,January,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,428
 2020,January,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,513
@@ -1034,7 +1021,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2020,January,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,524
 2020,January,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,725
 2020,January,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,820
-2020,January,99,No consta,99,No consta,Female,Registered unemployed,14
 2020,February,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1763
 2020,February,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,504
 2020,February,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,485
@@ -1108,7 +1094,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2020,February,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,439
 2020,February,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,604
 2020,February,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,683
-2020,February,99,No consta,99,No consta,Male,Registered unemployed,12
 2020,February,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1377
 2020,February,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,445
 2020,February,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,523
@@ -1182,7 +1167,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2020,February,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,528
 2020,February,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,730
 2020,February,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,825
-2020,February,99,No consta,99,No consta,Female,Registered unemployed,12
 2020,March,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1887
 2020,March,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,535
 2020,March,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,527
@@ -1256,7 +1240,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2020,March,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,476
 2020,March,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,669
 2020,March,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,759
-2020,March,99,No consta,99,No consta,Male,Registered unemployed,152
 2020,March,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1483
 2020,March,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,487
 2020,March,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,563
@@ -1330,7 +1313,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2020,March,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,559
 2020,March,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,778
 2020,March,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,880
-2020,March,99,No consta,99,No consta,Female,Registered unemployed,145
 2020,April,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2314
 2020,April,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,612
 2020,April,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,598
@@ -1404,7 +1386,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2020,April,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,533
 2020,April,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,740
 2020,April,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,838
-2020,April,99,No consta,99,No consta,Male,Registered unemployed,220
 2020,April,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1746
 2020,April,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,549
 2020,April,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,611
@@ -1478,7 +1459,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2020,April,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,607
 2020,April,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,833
 2020,April,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,941
-2020,April,99,No consta,99,No consta,Female,Registered unemployed,231
 2020,May,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2412
 2020,May,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,670
 2020,May,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,650
@@ -1552,7 +1532,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2020,May,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,554
 2020,May,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,762
 2020,May,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,863
-2020,May,99,No consta,99,No consta,Male,Registered unemployed,134
 2020,May,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1830
 2020,May,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,584
 2020,May,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,657
@@ -1626,7 +1605,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2020,May,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,629
 2020,May,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,861
 2020,May,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,973
-2020,May,99,No consta,99,No consta,Female,Registered unemployed,153
 2020,June,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2542
 2020,June,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,678
 2020,June,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,671
@@ -1700,7 +1678,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2020,June,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,559
 2020,June,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,768
 2020,June,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,869
-2020,June,99,No consta,99,No consta,Male,Registered unemployed,103
 2020,June,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1940
 2020,June,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,593
 2020,June,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,669
@@ -1774,7 +1751,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2020,June,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,650
 2020,June,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,886
 2020,June,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1000
-2020,June,99,No consta,99,No consta,Female,Registered unemployed,112
 2020,July,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2491
 2020,July,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,659
 2020,July,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,639
@@ -1848,7 +1824,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2020,July,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,544
 2020,July,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,741
 2020,July,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,837
-2020,July,99,No consta,99,No consta,Male,Registered unemployed,78
 2020,July,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1948
 2020,July,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,596
 2020,July,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,664
@@ -1922,7 +1897,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2020,July,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,648
 2020,July,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,886
 2020,July,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1001
-2020,July,99,No consta,99,No consta,Female,Registered unemployed,94
 2020,August,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2558
 2020,August,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,678
 2020,August,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,663
@@ -1996,7 +1970,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2020,August,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,552
 2020,August,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,755
 2020,August,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,853
-2020,August,99,No consta,99,No consta,Male,Registered unemployed,71
 2020,August,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,2011
 2020,August,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,615
 2020,August,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,687
@@ -2070,7 +2043,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2020,August,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,662
 2020,August,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,909
 2020,August,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1027
-2020,August,99,No consta,99,No consta,Female,Registered unemployed,78
 2020,September,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2626
 2020,September,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,665
 2020,September,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,648
@@ -2144,7 +2116,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2020,September,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,550
 2020,September,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,745
 2020,September,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,841
-2020,September,99,No consta,99,No consta,Male,Registered unemployed,61
 2020,September,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1981
 2020,September,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,601
 2020,September,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,683
@@ -2218,7 +2189,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2020,September,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,648
 2020,September,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,885
 2020,September,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,999
-2020,September,99,No consta,99,No consta,Female,Registered unemployed,80
 2020,October,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2813
 2020,October,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,727
 2020,October,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,675
@@ -2292,7 +2262,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2020,October,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,555
 2020,October,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,752
 2020,October,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,850
-2020,October,99,No consta,99,No consta,Male,Registered unemployed,56
 2020,October,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,2027
 2020,October,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,615
 2020,October,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,682
@@ -2366,7 +2335,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2020,October,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,646
 2020,October,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,882
 2020,October,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,996
-2020,October,99,No consta,99,No consta,Female,Registered unemployed,78
 2020,November,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2868
 2020,November,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,725
 2020,November,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,676
@@ -2440,7 +2408,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2020,November,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,553
 2020,November,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,741
 2020,November,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,837
-2020,November,99,No consta,99,No consta,Male,Registered unemployed,52
 2020,November,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,2052
 2020,November,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,644
 2020,November,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,689
@@ -2514,7 +2481,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2020,November,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,649
 2020,November,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,880
 2020,November,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,994
-2020,November,99,No consta,99,No consta,Female,Registered unemployed,69
 2020,December,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2971
 2020,December,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,759
 2020,December,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,699
@@ -2588,7 +2554,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2020,December,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,565
 2020,December,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,750
 2020,December,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,846
-2020,December,99,No consta,99,No consta,Male,Registered unemployed,57
 2020,December,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,2075
 2020,December,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,645
 2020,December,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,697
@@ -2662,7 +2627,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2020,December,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,656
 2020,December,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,890
 2020,December,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1005
-2020,December,99,No consta,99,No consta,Female,Registered unemployed,73
 2019,January,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1900
 2019,January,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,485
 2019,January,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,496
@@ -2736,7 +2700,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2019,January,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,426
 2019,January,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,593
 2019,January,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,672
-2019,January,99,No consta,99,No consta,Male,Registered unemployed,9
 2019,January,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1415
 2019,January,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,413
 2019,January,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,494
@@ -2810,7 +2773,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2019,January,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,522
 2019,January,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,718
 2019,January,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,811
-2019,January,99,No consta,99,No consta,Female,Registered unemployed,6
 2019,February,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1925
 2019,February,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,476
 2019,February,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,487
@@ -2884,7 +2846,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2019,February,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,420
 2019,February,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,573
 2019,February,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,648
-2019,February,99,No consta,99,No consta,Male,Registered unemployed,5
 2019,February,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1405
 2019,February,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,392
 2019,February,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,490
@@ -2958,7 +2919,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2019,February,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,521
 2019,February,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,721
 2019,February,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,815
-2019,February,99,No consta,99,No consta,Female,Registered unemployed,7
 2019,March,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1894
 2019,March,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,476
 2019,March,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,490
@@ -3032,7 +2992,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2019,March,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,427
 2019,March,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,578
 2019,March,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,654
-2019,March,99,No consta,99,No consta,Male,Registered unemployed,5
 2019,March,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1397
 2019,March,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,388
 2019,March,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,514
@@ -3106,7 +3065,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2019,March,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,529
 2019,March,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,730
 2019,March,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,824
-2019,March,99,No consta,99,No consta,Female,Registered unemployed,7
 2019,April,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1804
 2019,April,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,459
 2019,April,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,463
@@ -3180,7 +3138,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2019,April,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,417
 2019,April,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,564
 2019,April,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,638
-2019,April,99,No consta,99,No consta,Male,Registered unemployed,4
 2019,April,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1360
 2019,April,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,388
 2019,April,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,483
@@ -3254,7 +3211,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2019,April,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,520
 2019,April,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,722
 2019,April,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,816
-2019,April,99,No consta,99,No consta,Female,Registered unemployed,10
 2019,May,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1719
 2019,May,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,455
 2019,May,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,439
@@ -3328,7 +3284,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2019,May,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,408
 2019,May,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,557
 2019,May,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,630
-2019,May,99,No consta,99,No consta,Male,Registered unemployed,6
 2019,May,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1318
 2019,May,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,396
 2019,May,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,466
@@ -3402,7 +3357,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2019,May,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,505
 2019,May,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,701
 2019,May,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,793
-2019,May,99,No consta,99,No consta,Female,Registered unemployed,8
 2019,June,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1661
 2019,June,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,435
 2019,June,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,431
@@ -3476,7 +3430,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2019,June,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,390
 2019,June,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,537
 2019,June,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,607
-2019,June,99,No consta,99,No consta,Male,Registered unemployed,5
 2019,June,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1272
 2019,June,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,377
 2019,June,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,453
@@ -3550,7 +3503,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2019,June,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,497
 2019,June,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,691
 2019,June,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,781
-2019,June,99,No consta,99,No consta,Female,Registered unemployed,9
 2019,July,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1655
 2019,July,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,439
 2019,July,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,443
@@ -3624,7 +3576,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2019,July,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,390
 2019,July,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,537
 2019,July,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,608
-2019,July,99,No consta,99,No consta,Male,Registered unemployed,4
 2019,July,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1303
 2019,July,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,379
 2019,July,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,461
@@ -3698,7 +3649,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2019,July,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,508
 2019,July,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,706
 2019,July,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,798
-2019,July,99,No consta,99,No consta,Female,Registered unemployed,8
 2019,August,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1648
 2019,August,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,449
 2019,August,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,442
@@ -3772,7 +3722,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2019,August,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,412
 2019,August,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,564
 2019,August,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,636
-2019,August,99,No consta,99,No consta,Male,Registered unemployed,4
 2019,August,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1310
 2019,August,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,362
 2019,August,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,468
@@ -3846,7 +3795,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2019,August,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,521
 2019,August,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,732
 2019,August,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,828
-2019,August,99,No consta,99,No consta,Female,Registered unemployed,8
 2019,September,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1614
 2019,September,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,475
 2019,September,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,444
@@ -3920,7 +3868,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2019,September,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,412
 2019,September,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,574
 2019,September,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,649
-2019,September,99,No consta,99,No consta,Male,Registered unemployed,4
 2019,September,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1306
 2019,September,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,390
 2019,September,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,461
@@ -3994,7 +3941,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2019,September,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,506
 2019,September,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,711
 2019,September,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,805
-2019,September,99,No consta,99,No consta,Female,Registered unemployed,10
 2019,October,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1652
 2019,October,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,472
 2019,October,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,455
@@ -4068,7 +4014,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2019,October,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,417
 2019,October,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,589
 2019,October,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,669
-2019,October,99,No consta,99,No consta,Male,Registered unemployed,9
 2019,October,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1349
 2019,October,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,409
 2019,October,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,480
@@ -4142,7 +4087,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2019,October,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,516
 2019,October,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,718
 2019,October,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,813
-2019,October,99,No consta,99,No consta,Female,Registered unemployed,18
 2019,November,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1741
 2019,November,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,468
 2019,November,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,475
@@ -4216,7 +4160,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2019,November,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,416
 2019,November,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,574
 2019,November,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,650
-2019,November,99,No consta,99,No consta,Male,Registered unemployed,9
 2019,November,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1353
 2019,November,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,419
 2019,November,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,514
@@ -4290,7 +4233,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2019,November,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,522
 2019,November,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,728
 2019,November,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,824
-2019,November,99,No consta,99,No consta,Female,Registered unemployed,17
 2019,December,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1740
 2019,December,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,474
 2019,December,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,473
@@ -4364,7 +4306,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2019,December,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,415
 2019,December,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,582
 2019,December,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,661
-2019,December,99,No consta,99,No consta,Male,Registered unemployed,9
 2019,December,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1334
 2019,December,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,418
 2019,December,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,506
@@ -4438,7 +4379,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2019,December,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,512
 2019,December,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,708
 2019,December,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,800
-2019,December,99,No consta,99,No consta,Female,Registered unemployed,14
 2018,January,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2026
 2018,January,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,493
 2018,January,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,547
@@ -4512,7 +4452,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2018,January,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,461
 2018,January,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,632
 2018,January,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,715
-2018,January,99,No consta,99,No consta,Male,Registered unemployed,4
 2018,January,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1457
 2018,January,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,430
 2018,January,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,503
@@ -4586,7 +4525,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2018,January,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,567
 2018,January,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,811
 2018,January,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,921
-2018,January,99,No consta,99,No consta,Female,Registered unemployed,3
 2018,February,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1959
 2018,February,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,483
 2018,February,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,524
@@ -4660,7 +4598,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2018,February,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,452
 2018,February,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,629
 2018,February,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,713
-2018,February,99,No consta,99,No consta,Male,Registered unemployed,4
 2018,February,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1450
 2018,February,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,420
 2018,February,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,495
@@ -4734,7 +4671,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2018,February,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,561
 2018,February,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,805
 2018,February,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,913
-2018,February,99,No consta,99,No consta,Female,Registered unemployed,7
 2018,March,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1962
 2018,March,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,488
 2018,March,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,511
@@ -4808,7 +4744,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2018,March,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,450
 2018,March,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,627
 2018,March,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,712
-2018,March,99,No consta,99,No consta,Male,Registered unemployed,4
 2018,March,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1458
 2018,March,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,436
 2018,March,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,482
@@ -4882,7 +4817,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2018,March,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,559
 2018,March,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,798
 2018,March,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,905
-2018,March,99,No consta,99,No consta,Female,Registered unemployed,5
 2018,April,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1894
 2018,April,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,468
 2018,April,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,501
@@ -4956,7 +4890,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2018,April,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,435
 2018,April,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,608
 2018,April,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,691
-2018,April,99,No consta,99,No consta,Male,Registered unemployed,2
 2018,April,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1400
 2018,April,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,409
 2018,April,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,459
@@ -5030,7 +4963,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2018,April,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,545
 2018,April,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,774
 2018,April,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,878
-2018,April,99,No consta,99,No consta,Female,Registered unemployed,4
 2018,May,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1789
 2018,May,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,469
 2018,May,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,470
@@ -5104,7 +5036,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2018,May,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,426
 2018,May,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,591
 2018,May,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,670
-2018,May,99,No consta,99,No consta,Male,Registered unemployed,4
 2018,May,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1348
 2018,May,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,387
 2018,May,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,454
@@ -5178,7 +5109,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2018,May,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,536
 2018,May,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,759
 2018,May,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,861
-2018,May,99,No consta,99,No consta,Female,Registered unemployed,2
 2018,June,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1736
 2018,June,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,427
 2018,June,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,449
@@ -5252,7 +5182,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2018,June,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,411
 2018,June,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,576
 2018,June,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,654
-2018,June,99,No consta,99,No consta,Male,Registered unemployed,6
 2018,June,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1336
 2018,June,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,391
 2018,June,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,454
@@ -5326,7 +5255,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2018,June,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,521
 2018,June,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,739
 2018,June,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,838
-2018,June,99,No consta,99,No consta,Female,Registered unemployed,4
 2018,July,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1695
 2018,July,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,436
 2018,July,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,446
@@ -5400,7 +5328,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2018,July,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,400
 2018,July,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,559
 2018,July,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,633
-2018,July,99,No consta,99,No consta,Male,Registered unemployed,4
 2018,July,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1348
 2018,July,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,375
 2018,July,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,456
@@ -5474,7 +5401,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2018,July,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,528
 2018,July,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,730
 2018,July,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,825
-2018,July,99,No consta,99,No consta,Female,Registered unemployed,4
 2018,August,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1679
 2018,August,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,462
 2018,August,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,463
@@ -5548,7 +5474,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2018,August,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,416
 2018,August,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,586
 2018,August,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,664
-2018,August,99,No consta,99,No consta,Male,Registered unemployed,6
 2018,August,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1333
 2018,August,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,390
 2018,August,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,469
@@ -5622,7 +5547,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2018,August,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,548
 2018,August,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,751
 2018,August,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,846
-2018,August,99,No consta,99,No consta,Female,Registered unemployed,4
 2018,September,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1723
 2018,September,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,460
 2018,September,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,474
@@ -5696,7 +5620,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2018,September,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,414
 2018,September,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,580
 2018,September,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,657
-2018,September,99,No consta,99,No consta,Male,Registered unemployed,5
 2018,September,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1379
 2018,September,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,394
 2018,September,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,450
@@ -5770,7 +5693,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2018,September,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,536
 2018,September,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,753
 2018,September,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,853
-2018,September,99,No consta,99,No consta,Female,Registered unemployed,5
 2018,October,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1782
 2018,October,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,476
 2018,October,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,477
@@ -5844,7 +5766,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2018,October,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,428
 2018,October,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,595
 2018,October,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,673
-2018,October,99,No consta,99,No consta,Male,Registered unemployed,6
 2018,October,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1421
 2018,October,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,429
 2018,October,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,461
@@ -5918,7 +5839,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2018,October,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,534
 2018,October,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,749
 2018,October,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,847
-2018,October,99,No consta,99,No consta,Female,Registered unemployed,6
 2018,November,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1856
 2018,November,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,469
 2018,November,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,493
@@ -5992,7 +5912,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2018,November,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,422
 2018,November,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,579
 2018,November,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,654
-2018,November,99,No consta,99,No consta,Male,Registered unemployed,7
 2018,November,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1438
 2018,November,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,427
 2018,November,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,473
@@ -6066,7 +5985,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2018,November,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,523
 2018,November,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,731
 2018,November,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,827
-2018,November,99,No consta,99,No consta,Female,Registered unemployed,7
 2018,December,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1892
 2018,December,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,464
 2018,December,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,490
@@ -6140,7 +6058,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2018,December,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,424
 2018,December,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,592
 2018,December,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,670
-2018,December,99,No consta,99,No consta,Male,Registered unemployed,7
 2018,December,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1418
 2018,December,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,405
 2018,December,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,486
@@ -6214,7 +6131,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2018,December,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,512
 2018,December,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,711
 2018,December,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,804
-2018,December,99,No consta,99,No consta,Female,Registered unemployed,5
 2017,January,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2107
 2017,January,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,538
 2017,January,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,537
@@ -6288,7 +6204,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2017,January,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,492
 2017,January,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,686
 2017,January,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,778
-2017,January,99,No consta,99,No consta,Male,Registered unemployed,3
 2017,January,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1452
 2017,January,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,411
 2017,January,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,525
@@ -6362,7 +6277,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2017,January,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,593
 2017,January,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,824
 2017,January,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,932
-2017,January,99,No consta,99,No consta,Female,Registered unemployed,5
 2017,February,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2063
 2017,February,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,506
 2017,February,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,525
@@ -6436,7 +6350,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2017,February,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,495
 2017,February,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,696
 2017,February,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,789
-2017,February,99,No consta,99,No consta,Male,Registered unemployed,2
 2017,February,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1462
 2017,February,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,415
 2017,February,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,518
@@ -6510,7 +6423,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2017,February,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,598
 2017,February,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,838
 2017,February,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,948
-2017,February,99,No consta,99,No consta,Female,Registered unemployed,4
 2017,March,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2109
 2017,March,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,505
 2017,March,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,525
@@ -6584,7 +6496,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2017,March,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,488
 2017,March,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,678
 2017,March,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,769
-2017,March,99,No consta,99,No consta,Male,Registered unemployed,2
 2017,March,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1488
 2017,March,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,413
 2017,March,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,518
@@ -6658,7 +6569,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2017,March,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,598
 2017,March,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,845
 2017,March,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,956
-2017,March,99,No consta,99,No consta,Female,Registered unemployed,3
 2017,April,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2017
 2017,April,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,477
 2017,April,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,504
@@ -6732,7 +6642,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2017,April,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,470
 2017,April,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,661
 2017,April,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,752
-2017,April,99,No consta,99,No consta,Male,Registered unemployed,1
 2017,April,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1432
 2017,April,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,395
 2017,April,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,500
@@ -6806,7 +6715,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2017,April,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,588
 2017,April,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,829
 2017,April,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,939
-2017,April,99,No consta,99,No consta,Female,Registered unemployed,3
 2017,May,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2006
 2017,May,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,464
 2017,May,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,482
@@ -6880,7 +6788,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2017,May,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,455
 2017,May,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,634
 2017,May,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,719
-2017,May,99,No consta,99,No consta,Male,Registered unemployed,3
 2017,May,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1434
 2017,May,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,381
 2017,May,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,496
@@ -6954,7 +6861,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2017,May,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,573
 2017,May,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,810
 2017,May,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,917
-2017,May,99,No consta,99,No consta,Female,Registered unemployed,6
 2017,June,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1926
 2017,June,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,454
 2017,June,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,484
@@ -7028,7 +6934,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2017,June,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,436
 2017,June,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,606
 2017,June,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,687
-2017,June,99,No consta,99,No consta,Male,Registered unemployed,6
 2017,June,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1394
 2017,June,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,362
 2017,June,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,480
@@ -7102,7 +7007,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2017,June,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,561
 2017,June,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,793
 2017,June,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,897
-2017,June,99,No consta,99,No consta,Female,Registered unemployed,5
 2017,July,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1878
 2017,July,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,453
 2017,July,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,476
@@ -7176,7 +7080,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2017,July,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,425
 2017,July,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,577
 2017,July,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,651
-2017,July,99,No consta,99,No consta,Male,Registered unemployed,5
 2017,July,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1354
 2017,July,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,365
 2017,July,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,488
@@ -7250,7 +7153,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2017,July,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,562
 2017,July,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,799
 2017,July,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,905
-2017,July,99,No consta,99,No consta,Female,Registered unemployed,5
 2017,August,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1842
 2017,August,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,453
 2017,August,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,499
@@ -7324,7 +7226,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2017,August,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,438
 2017,August,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,589
 2017,August,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,664
-2017,August,99,No consta,99,No consta,Male,Registered unemployed,4
 2017,August,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1337
 2017,August,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,375
 2017,August,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,478
@@ -7398,7 +7299,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2017,August,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,574
 2017,August,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,813
 2017,August,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,921
-2017,August,99,No consta,99,No consta,Female,Registered unemployed,5
 2017,September,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1866
 2017,September,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,458
 2017,September,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,494
@@ -7472,7 +7372,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2017,September,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,433
 2017,September,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,591
 2017,September,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,668
-2017,September,99,No consta,99,No consta,Male,Registered unemployed,3
 2017,September,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1351
 2017,September,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,377
 2017,September,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,469
@@ -7546,7 +7445,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2017,September,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,561
 2017,September,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,806
 2017,September,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,914
-2017,September,99,No consta,99,No consta,Female,Registered unemployed,4
 2017,October,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1926
 2017,October,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,486
 2017,October,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,519
@@ -7620,7 +7518,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2017,October,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,453
 2017,October,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,626
 2017,October,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,709
-2017,October,99,No consta,99,No consta,Male,Registered unemployed,2
 2017,October,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1408
 2017,October,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,410
 2017,October,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,485
@@ -7694,7 +7591,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2017,October,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,567
 2017,October,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,815
 2017,October,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,926
-2017,October,99,No consta,99,No consta,Female,Registered unemployed,4
 2017,November,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2026
 2017,November,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,502
 2017,November,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,544
@@ -7768,7 +7664,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2017,November,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,463
 2017,November,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,629
 2017,November,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,712
-2017,November,99,No consta,99,No consta,Male,Registered unemployed,3
 2017,November,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1485
 2017,November,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,406
 2017,November,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,506
@@ -7842,7 +7737,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2017,November,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,571
 2017,November,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,815
 2017,November,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,924
-2017,November,99,No consta,99,No consta,Female,Registered unemployed,3
 2017,December,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,1997
 2017,December,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,503
 2017,December,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,539
@@ -7916,7 +7810,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2017,December,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,448
 2017,December,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,611
 2017,December,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,691
-2017,December,99,No consta,99,No consta,Male,Registered unemployed,4
 2017,December,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1456
 2017,December,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,413
 2017,December,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,494
@@ -7990,7 +7883,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2017,December,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,560
 2017,December,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,797
 2017,December,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,904
-2017,December,99,No consta,99,No consta,Female,Registered unemployed,3
 2016,January,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2431
 2016,January,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,588
 2016,January,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,637
@@ -8064,7 +7956,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2016,January,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,570
 2016,January,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,791
 2016,January,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,897
-2016,January,99,No consta,99,No consta,Male,Registered unemployed,2
 2016,January,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1545
 2016,January,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,463
 2016,January,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,586
@@ -8138,7 +8029,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2016,January,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,670
 2016,January,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,940
 2016,January,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1062
-2016,January,99,No consta,99,No consta,Female,Registered unemployed,2
 2016,February,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2418
 2016,February,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,558
 2016,February,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,608
@@ -8212,7 +8102,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2016,February,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,558
 2016,February,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,781
 2016,February,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,887
-2016,February,99,No consta,99,No consta,Male,Registered unemployed,3
 2016,February,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1510
 2016,February,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,469
 2016,February,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,569
@@ -8286,7 +8175,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2016,February,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,659
 2016,February,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,924
 2016,February,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1045
-2016,February,99,No consta,99,No consta,Female,Registered unemployed,4
 2016,March,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2386
 2016,March,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,555
 2016,March,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,604
@@ -8360,7 +8248,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2016,March,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,549
 2016,March,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,759
 2016,March,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,860
-2016,March,99,No consta,99,No consta,Male,Registered unemployed,5
 2016,March,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1542
 2016,March,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,452
 2016,March,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,562
@@ -8434,7 +8321,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2016,March,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,658
 2016,March,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,916
 2016,March,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1035
-2016,March,99,No consta,99,No consta,Female,Registered unemployed,3
 2016,April,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2341
 2016,April,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,534
 2016,April,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,592
@@ -8508,7 +8394,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2016,April,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,530
 2016,April,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,743
 2016,April,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,844
-2016,April,99,No consta,99,No consta,Male,Registered unemployed,2
 2016,April,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1516
 2016,April,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,427
 2016,April,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,547
@@ -8582,7 +8467,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2016,April,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,640
 2016,April,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,886
 2016,April,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1000
-2016,April,99,No consta,99,No consta,Female,Registered unemployed,5
 2016,May,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2197
 2016,May,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,507
 2016,May,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,565
@@ -8656,7 +8540,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2016,May,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,516
 2016,May,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,722
 2016,May,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,820
-2016,May,99,No consta,99,No consta,Male,Registered unemployed,6
 2016,May,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1433
 2016,May,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,412
 2016,May,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,528
@@ -8730,7 +8613,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2016,May,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,623
 2016,May,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,866
 2016,May,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,979
-2016,May,99,No consta,99,No consta,Female,Registered unemployed,8
 2016,June,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2145
 2016,June,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,488
 2016,June,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,541
@@ -8804,7 +8686,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2016,June,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,490
 2016,June,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,681
 2016,June,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,772
-2016,June,99,No consta,99,No consta,Male,Registered unemployed,7
 2016,June,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1408
 2016,June,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,390
 2016,June,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,508
@@ -8878,7 +8759,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2016,June,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,613
 2016,June,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,856
 2016,June,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,968
-2016,June,99,No consta,99,No consta,Female,Registered unemployed,5
 2016,July,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2081
 2016,July,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,477
 2016,July,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,529
@@ -8952,7 +8832,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2016,July,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,470
 2016,July,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,647
 2016,July,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,732
-2016,July,99,No consta,99,No consta,Male,Registered unemployed,10
 2016,July,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1391
 2016,July,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,393
 2016,July,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,510
@@ -9026,7 +8905,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2016,July,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,613
 2016,July,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,855
 2016,July,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,965
-2016,July,99,No consta,99,No consta,Female,Registered unemployed,6
 2016,August,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2020
 2016,August,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,466
 2016,August,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,532
@@ -9100,7 +8978,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2016,August,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,478
 2016,August,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,657
 2016,August,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,743
-2016,August,99,No consta,99,No consta,Male,Registered unemployed,5
 2016,August,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1382
 2016,August,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,393
 2016,August,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,528
@@ -9174,7 +9051,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2016,August,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,618
 2016,August,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,857
 2016,August,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,967
-2016,August,99,No consta,99,No consta,Female,Registered unemployed,7
 2016,September,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2041
 2016,September,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,471
 2016,September,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,520
@@ -9248,7 +9124,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2016,September,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,474
 2016,September,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,656
 2016,September,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,743
-2016,September,99,No consta,99,No consta,Male,Registered unemployed,6
 2016,September,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1425
 2016,September,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,404
 2016,September,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,542
@@ -9322,7 +9197,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2016,September,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,603
 2016,September,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,845
 2016,September,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,955
-2016,September,99,No consta,99,No consta,Female,Registered unemployed,7
 2016,October,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2047
 2016,October,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,494
 2016,October,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,536
@@ -9396,7 +9270,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2016,October,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,475
 2016,October,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,663
 2016,October,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,752
-2016,October,99,No consta,99,No consta,Male,Registered unemployed,5
 2016,October,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1435
 2016,October,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,382
 2016,October,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,533
@@ -9470,7 +9343,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2016,October,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,599
 2016,October,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,842
 2016,October,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,953
-2016,October,99,No consta,99,No consta,Female,Registered unemployed,6
 2016,November,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2132
 2016,November,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,508
 2016,November,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,547
@@ -9544,7 +9416,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2016,November,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,494
 2016,November,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,691
 2016,November,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,784
-2016,November,99,No consta,99,No consta,Male,Registered unemployed,5
 2016,November,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1461
 2016,November,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,397
 2016,November,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,537
@@ -9618,7 +9489,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2016,November,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,606
 2016,November,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,855
 2016,November,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,969
-2016,November,99,No consta,99,No consta,Female,Registered unemployed,3
 2016,December,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2136
 2016,December,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,516
 2016,December,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,546
@@ -9692,7 +9562,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2016,December,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,489
 2016,December,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,683
 2016,December,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,775
-2016,December,99,No consta,99,No consta,Male,Registered unemployed,5
 2016,December,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1429
 2016,December,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,396
 2016,December,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,526
@@ -9766,7 +9635,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2016,December,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,591
 2016,December,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,824
 2016,December,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,932
-2016,December,99,No consta,99,No consta,Female,Registered unemployed,6
 2015,January,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2688
 2015,January,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,685
 2015,January,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,676
@@ -9840,7 +9708,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2015,January,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,676
 2015,January,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,938
 2015,January,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,1065
-2015,January,99,No consta,99,No consta,Male,Registered unemployed,3
 2015,January,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1680
 2015,January,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,512
 2015,January,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,602
@@ -9914,7 +9781,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2015,January,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,713
 2015,January,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,971
 2015,January,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1094
-2015,January,99,No consta,99,No consta,Female,Registered unemployed,1
 2015,February,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2653
 2015,February,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,664
 2015,February,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,667
@@ -9988,7 +9854,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2015,February,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,660
 2015,February,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,911
 2015,February,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,1034
-2015,February,99,No consta,99,No consta,Male,Registered unemployed,3
 2015,February,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1693
 2015,February,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,503
 2015,February,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,610
@@ -10062,7 +9927,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2015,February,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,717
 2015,February,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,972
 2015,February,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1096
-2015,February,99,No consta,99,No consta,Female,Registered unemployed,1
 2015,March,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2660
 2015,March,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,642
 2015,March,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,675
@@ -10136,7 +10000,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2015,March,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,655
 2015,March,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,907
 2015,March,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,1030
-2015,March,99,No consta,99,No consta,Male,Registered unemployed,3
 2015,March,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1682
 2015,March,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,504
 2015,March,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,602
@@ -10210,7 +10073,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2015,March,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,709
 2015,March,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,967
 2015,March,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1091
-2015,March,99,No consta,99,No consta,Female,Registered unemployed,1
 2015,April,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2572
 2015,April,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,643
 2015,April,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,642
@@ -10284,7 +10146,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2015,April,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,630
 2015,April,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,874
 2015,April,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,992
-2015,April,99,No consta,99,No consta,Male,Registered unemployed,3
 2015,April,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1668
 2015,April,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,488
 2015,April,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,592
@@ -10358,7 +10219,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2015,April,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,691
 2015,April,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,951
 2015,April,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1073
-2015,April,99,No consta,99,No consta,Female,Registered unemployed,1
 2015,May,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2480
 2015,May,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,604
 2015,May,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,615
@@ -10432,7 +10292,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2015,May,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,609
 2015,May,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,846
 2015,May,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,961
-2015,May,99,No consta,99,No consta,Male,Registered unemployed,1
 2015,May,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1630
 2015,May,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,462
 2015,May,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,579
@@ -10506,7 +10365,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2015,May,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,675
 2015,May,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,934
 2015,May,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1055
-2015,May,99,No consta,99,No consta,Female,Registered unemployed,1
 2015,June,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2389
 2015,June,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,594
 2015,June,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,592
@@ -10580,7 +10438,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2015,June,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,579
 2015,June,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,802
 2015,June,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,910
-2015,June,99,No consta,99,No consta,Male,Registered unemployed,1
 2015,June,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1588
 2015,June,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,459
 2015,June,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,566
@@ -10654,7 +10511,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2015,June,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,659
 2015,June,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,920
 2015,June,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1040
-2015,June,99,No consta,99,No consta,Female,Registered unemployed,1
 2015,July,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2333
 2015,July,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,599
 2015,July,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,584
@@ -10728,7 +10584,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2015,July,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,557
 2015,July,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,771
 2015,July,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,874
-2015,July,99,No consta,99,No consta,Male,Registered unemployed,1
 2015,July,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1572
 2015,July,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,455
 2015,July,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,564
@@ -10802,7 +10657,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2015,July,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,661
 2015,July,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,938
 2015,July,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1061
-2015,July,99,No consta,99,No consta,Female,Registered unemployed,1
 2015,August,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2300
 2015,August,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,579
 2015,August,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,582
@@ -10876,7 +10730,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2015,August,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,563
 2015,August,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,772
 2015,August,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,875
-2015,August,99,No consta,99,No consta,Male,Registered unemployed,2
 2015,August,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1550
 2015,August,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,451
 2015,August,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,569
@@ -10950,7 +10803,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2015,August,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,672
 2015,August,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,946
 2015,August,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1069
-2015,August,99,No consta,99,No consta,Female,Registered unemployed,1
 2015,September,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2302
 2015,September,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,577
 2015,September,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,583
@@ -11024,7 +10876,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2015,September,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,562
 2015,September,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,774
 2015,September,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,878
-2015,September,99,No consta,99,No consta,Male,Registered unemployed,1
 2015,September,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1528
 2015,September,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,434
 2015,September,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,557
@@ -11098,7 +10949,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2015,September,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,672
 2015,September,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,941
 2015,September,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1064
-2015,September,99,No consta,99,No consta,Female,Registered unemployed,1
 2015,October,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2303
 2015,October,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,579
 2015,October,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,611
@@ -11172,7 +11022,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2015,October,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,573
 2015,October,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,788
 2015,October,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,894
-2015,October,99,No consta,99,No consta,Male,Registered unemployed,2
 2015,October,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1530
 2015,October,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,437
 2015,October,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,565
@@ -11246,7 +11095,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2015,October,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,671
 2015,October,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,939
 2015,October,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1062
-2015,October,99,No consta,99,No consta,Female,Registered unemployed,1
 2015,November,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2363
 2015,November,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,589
 2015,November,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,620
@@ -11320,7 +11168,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2015,November,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,564
 2015,November,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,779
 2015,November,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,884
-2015,November,99,No consta,99,No consta,Male,Registered unemployed,1
 2015,November,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1584
 2015,November,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,469
 2015,November,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,572
@@ -11394,7 +11241,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2015,November,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,662
 2015,November,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,929
 2015,November,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1051
-2015,November,99,No consta,99,No consta,Female,Registered unemployed,2
 2015,December,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2350
 2015,December,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,578
 2015,December,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,634
@@ -11468,7 +11314,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2015,December,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,566
 2015,December,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,783
 2015,December,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,887
-2015,December,99,No consta,99,No consta,Male,Registered unemployed,2
 2015,December,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1551
 2015,December,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,471
 2015,December,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,570
@@ -11542,7 +11387,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2015,December,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,662
 2015,December,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,929
 2015,December,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1051
-2015,December,99,No consta,99,No consta,Female,Registered unemployed,1
 2014,January,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2864
 2014,January,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,703
 2014,January,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,741
@@ -11835,7 +11679,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2014,February,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,742
 2014,February,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,1024
 2014,February,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1156
-2014,February,99,No consta,99,No consta,Female,Registered unemployed,3
 2014,March,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2861
 2014,March,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,718
 2014,March,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,736
@@ -11909,7 +11752,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2014,March,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,728
 2014,March,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,1012
 2014,March,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,1149
-2014,March,99,No consta,99,No consta,Male,Registered unemployed,6
 2014,March,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1711
 2014,March,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,515
 2014,March,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,651
@@ -11983,7 +11825,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2014,March,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,737
 2014,March,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,1022
 2014,March,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1154
-2014,March,99,No consta,99,No consta,Female,Registered unemployed,1
 2014,April,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2817
 2014,April,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,670
 2014,April,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,715
@@ -12057,7 +11898,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2014,April,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,716
 2014,April,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,998
 2014,April,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,1132
-2014,April,99,No consta,99,No consta,Male,Registered unemployed,7
 2014,April,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1693
 2014,April,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,518
 2014,April,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,639
@@ -12131,7 +11971,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2014,April,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,728
 2014,April,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,1003
 2014,April,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1132
-2014,April,99,No consta,99,No consta,Female,Registered unemployed,4
 2014,May,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2745
 2014,May,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,651
 2014,May,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,667
@@ -12205,7 +12044,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2014,May,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,693
 2014,May,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,965
 2014,May,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,1095
-2014,May,99,No consta,99,No consta,Male,Registered unemployed,11
 2014,May,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1634
 2014,May,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,490
 2014,May,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,595
@@ -12352,7 +12190,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2014,June,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,680
 2014,June,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,947
 2014,June,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,1076
-2014,June,99,No consta,99,No consta,Male,Registered unemployed,5
 2014,June,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1624
 2014,June,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,472
 2014,June,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,591
@@ -12499,7 +12336,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2014,July,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,671
 2014,July,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,932
 2014,July,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,1057
-2014,July,99,No consta,99,No consta,Male,Registered unemployed,8
 2014,July,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1648
 2014,July,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,487
 2014,July,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,623
@@ -12719,7 +12555,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2014,August,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,717
 2014,August,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,997
 2014,August,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1127
-2014,August,99,No consta,99,No consta,Female,Registered unemployed,1
 2014,September,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2528
 2014,September,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,655
 2014,September,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,640
@@ -12793,7 +12628,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2014,September,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,669
 2014,September,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,949
 2014,September,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,1080
-2014,September,99,No consta,99,No consta,Male,Registered unemployed,5
 2014,September,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1603
 2014,September,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,492
 2014,September,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,606
@@ -12867,7 +12701,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2014,September,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,714
 2014,September,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,995
 2014,September,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1125
-2014,September,99,No consta,99,No consta,Female,Registered unemployed,1
 2014,October,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2587
 2014,October,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,650
 2014,October,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,662
@@ -13087,7 +12920,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2014,November,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,670
 2014,November,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,926
 2014,November,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,1051
-2014,November,99,No consta,99,No consta,Male,Registered unemployed,3
 2014,November,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1656
 2014,November,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,506
 2014,November,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,603
@@ -13234,7 +13066,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2014,December,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,659
 2014,December,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,916
 2014,December,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,1040
-2014,December,99,No consta,99,No consta,Male,Registered unemployed,2
 2014,December,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1644
 2014,December,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,493
 2014,December,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,599
@@ -13308,7 +13139,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2014,December,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,692
 2014,December,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,934
 2014,December,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1052
-2014,December,99,No consta,99,No consta,Female,Registered unemployed,5
 2013,January,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,3012
 2013,January,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,799
 2013,January,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,802
@@ -13382,7 +13212,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2013,January,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,780
 2013,January,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,1086
 2013,January,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,1231
-2013,January,99,No consta,99,No consta,Male,Registered unemployed,7
 2013,January,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1790
 2013,January,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,558
 2013,January,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,704
@@ -13456,7 +13285,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2013,January,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,771
 2013,January,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,1061
 2013,January,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1197
-2013,January,99,No consta,99,No consta,Female,Registered unemployed,2
 2013,February,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,3050
 2013,February,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,785
 2013,February,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,809
@@ -13603,7 +13431,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2013,February,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,776
 2013,February,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,1071
 2013,February,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1209
-2013,February,99,No consta,99,No consta,Female,Registered unemployed,1
 2013,March,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,3063
 2013,March,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,782
 2013,March,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,798
@@ -13677,7 +13504,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2013,March,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,794
 2013,March,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,1089
 2013,March,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,1234
-2013,March,99,No consta,99,No consta,Male,Registered unemployed,6
 2013,March,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1849
 2013,March,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,545
 2013,March,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,694
@@ -13897,7 +13723,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2013,April,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,770
 2013,April,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,1072
 2013,April,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1212
-2013,April,99,No consta,99,No consta,Female,Registered unemployed,1
 2013,May,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2960
 2013,May,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,744
 2013,May,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,743
@@ -13971,7 +13796,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2013,May,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,764
 2013,May,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,1043
 2013,May,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,1181
-2013,May,99,No consta,99,No consta,Male,Registered unemployed,5
 2013,May,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1803
 2013,May,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,526
 2013,May,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,648
@@ -14045,7 +13869,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2013,May,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,766
 2013,May,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,1073
 2013,May,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1213
-2013,May,99,No consta,99,No consta,Female,Registered unemployed,4
 2013,June,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2824
 2013,June,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,701
 2013,June,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,721
@@ -14119,7 +13942,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2013,June,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,741
 2013,June,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,1021
 2013,June,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,1157
-2013,June,99,No consta,99,No consta,Male,Registered unemployed,5
 2013,June,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1723
 2013,June,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,503
 2013,June,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,629
@@ -14266,7 +14088,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2013,July,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,731
 2013,July,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,1010
 2013,July,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,1144
-2013,July,99,No consta,99,No consta,Male,Registered unemployed,4
 2013,July,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1688
 2013,July,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,507
 2013,July,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,636
@@ -14340,7 +14161,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2013,July,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,750
 2013,July,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,1045
 2013,July,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1180
-2013,July,99,No consta,99,No consta,Female,Registered unemployed,2
 2013,August,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2709
 2013,August,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,679
 2013,August,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,695
@@ -14414,7 +14234,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2013,August,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,728
 2013,August,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,1013
 2013,August,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,1147
-2013,August,99,No consta,99,No consta,Male,Registered unemployed,6
 2013,August,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1658
 2013,August,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,514
 2013,August,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,634
@@ -14561,7 +14380,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2013,September,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,746
 2013,September,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,1033
 2013,September,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,1170
-2013,September,99,No consta,99,No consta,Male,Registered unemployed,2
 2013,September,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1691
 2013,September,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,521
 2013,September,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,645
@@ -14635,7 +14453,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2013,September,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,766
 2013,September,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,1057
 2013,September,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1192
-2013,September,99,No consta,99,No consta,Female,Registered unemployed,1
 2013,October,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2793
 2013,October,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,715
 2013,October,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,717
@@ -14709,7 +14526,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2013,October,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,758
 2013,October,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,1051
 2013,October,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,1187
-2013,October,99,No consta,99,No consta,Male,Registered unemployed,2
 2013,October,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1716
 2013,October,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,508
 2013,October,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,661
@@ -14783,7 +14599,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2013,October,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,762
 2013,October,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,1058
 2013,October,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1194
-2013,October,99,No consta,99,No consta,Female,Registered unemployed,4
 2013,November,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2873
 2013,November,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,737
 2013,November,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,740
@@ -14930,7 +14745,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2013,November,10,Sant Martí,71,Provençals del Poblenou,Female,Registered unemployed,760
 2013,November,10,Sant Martí,72,Sant Martí de Provençals,Female,Registered unemployed,1055
 2013,November,10,Sant Martí,73,la Verneda i la Pau,Female,Registered unemployed,1192
-2013,November,99,No consta,99,No consta,Female,Registered unemployed,1
 2013,December,1,Ciutat Vella,1,el Raval,Male,Registered unemployed,2830
 2013,December,1,Ciutat Vella,2,el Barri Gòtic,Male,Registered unemployed,719
 2013,December,1,Ciutat Vella,3,la Barceloneta,Male,Registered unemployed,722
@@ -15004,7 +14818,6 @@ Year,Month,District.Code,District.Name,Neighborhood.Code,Neighborhood.Name,Gende
 2013,December,10,Sant Martí,71,Provençals del Poblenou,Male,Registered unemployed,731
 2013,December,10,Sant Martí,72,Sant Martí de Provençals,Male,Registered unemployed,1007
 2013,December,10,Sant Martí,73,la Verneda i la Pau,Male,Registered unemployed,1140
-2013,December,99,No consta,99,No consta,Male,Registered unemployed,1
 2013,December,1,Ciutat Vella,1,el Raval,Female,Registered unemployed,1690
 2013,December,1,Ciutat Vella,2,el Barri Gòtic,Female,Registered unemployed,508
 2013,December,1,Ciutat Vella,3,la Barceloneta,Female,Registered unemployed,649
