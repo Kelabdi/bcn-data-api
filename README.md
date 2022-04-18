@@ -56,6 +56,7 @@ Finally, it was performed an Streamlit dashboard to make the requests and repres
 <img src="streamlit/img/newplot.png"/>
 
 #
+<img src="streamlit/img/newplot2.png"/>  
 #
 #
 ## Tecnologies & Resources
