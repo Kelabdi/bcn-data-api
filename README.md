@@ -2,7 +2,6 @@
 
 <img src="streamlit/img/sagrada-familia.jpg"/>
 
-This is my mid-project for the **BIG DATA & MACHINE LEARNING BOOTCAMP** I am taking at **Core CODE School**.
 As an Abstract, this is a Streamlit dashboard that makes requests to an API and shows some charts. The requested API get the info from a MongoDB Database with some datasets from Barcelona. Every one of those communication elements were performed on this project.
 #
 #
